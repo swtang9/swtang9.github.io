@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shaowu Tang (唐 绍武)"
+title                    : "Shaowu Tang"
 title_separator          : "-"
 name                     : &name "Shaowu Tang"
 description              : &description "personal description"
