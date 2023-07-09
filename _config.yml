@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shaowu Tang (唐 绍武)"
+  name             : "Shaowu Tang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Graduate Student @ SUSTech"
   location         : "Shenzhen, CN"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
