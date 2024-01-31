@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shaowu Tang 唐 绍武"
+title: "Shaowu Tang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
