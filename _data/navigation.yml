@@ -3,8 +3,8 @@
 #上边标题使能，取消注释就会出现下面的titles
 
 # main:
-#   - title: "Publications"
-#     url: /publications/
+   - title: "Publications"
+     url: /publications/
 
 #   - title: "Talks"
 #     url: /talks/    
