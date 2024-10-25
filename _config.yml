@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Siteng Huang (黄思腾)"
+title                    : "Shaowu Tang"
 description              : "Focusing on multi-modal large models." # "Algorithm expert in DAMO Academy, Alibaba. Focusing on multi-modal large models."
-repository               : "bighuang624/bighuang624.github.io"
+repository               : "swtang9/swtang9.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bighuang624"
+  github           : "swtang9"
   google_plus      :
   keybase          :
   instagram        :
