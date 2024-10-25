@@ -15,8 +15,8 @@ main:
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
 
-  # - title: "Educations"
-  #   url: "/#-educations"
+  - title: "Educations"
+    url: "/#-educations"
 
   # - title: "Invited Talks"
   #   url: "/#-invited-talks"
@@ -24,11 +24,11 @@ main:
   # - title: "Internships"
   #   url: "/#-internships"
 
-  - title: "Work Experience"
-    url: "/#-work-experience"
+  # - title: "Work Experience"
+  #   url: "/#-work-experience"
 
-  - title: "Services"
-    url: "/#-services"
+  # - title: "Services"
+  #   url: "/#-services"
 
   # - title: "Misc"
   #   url: "/#-misc"
