@@ -62,6 +62,10 @@ deep green: 004e00/49846a
 
 
 
+<!-- i! I am Shaowu Tang (唐绍武 in Chinese). I am Master student in Soft ronotics. [DAMO Academy](https://damo.alibaba.com/) <a href='https://damo.alibaba.com/' target="_blank"><img src='./images/alibaba.png' align="center" style='vertical-align: middle; width: 78px;'></a> as an Algorithm Expert in Hangzhou. I received my Ph.D. degree from [Zhejiang University](http://www.zju.edu.cn/) <a href="http://www.zju.edu.cn/" target="_blank"><img src='./images/zju.png' align="center" style='vertical-align: middle; width: 19px;'></a> in June 2024, affiliated with a joint program with [Westlake University](https://www.westlake.edu.cn/) <a href="https://www.westlake.edu.cn/" target="_blank"><img src='./images/westlake.png' align="center" style='vertical-align: middle; width: 19px;'></a> at [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) and advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Before that, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) <a href="https://www.whu.edu.cn/" target="_blank"><img src='./images/whu.png' align="center" style='vertical-align: middle; width: 19px;'></a> in June 2019. -->
+
+
+
 ### Peer-reviewed Journal Articals
 
 <a href="https://openreview.net/forum?id=o2axlPlXYY" target="_blank"><img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"></a> Can Cui†, <u>Siteng Huang</u>†, Wenxuan Song, Pengxiang Ding, Zhang Min, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. In *Proceedings of the ACM Multimedia 2024*. [[arXiv](https://arxiv.org/abs/2409.20081)] [[github](https://github.com/Cuixxx/ProFD)]
@@ -70,6 +74,5 @@ deep green: 004e00/49846a
 
 <img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Pengxiang Ding, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, <u>Siteng Huang</u>, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. In *Proceedings of the European Conference on Computer Vision 2024*. [[arXiv](https://arxiv.org/abs/2312.14457)]
 
-<div align = "center">
-<img src="Paper_preview/2024RAL.png" height="300px" alt="ral" >
-</div>
+
+target="_blank"><img src='./images/whu.png' align="center" style='vertical-align: middle; width: 19px;'></a>
