@@ -2,7 +2,7 @@
 
 †: Equal contribution
 
-### Peer-reviewed Conference
+<!-- ### Peer-reviewed Conference
 
 <a href="https://openreview.net/forum?id=o2axlPlXYY" target="_blank"><img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"></a> Can Cui†, <u>Siteng Huang</u>†, Wenxuan Song, Pengxiang Ding, Zhang Min, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. In *Proceedings of the ACM Multimedia 2024*. [[arXiv](https://arxiv.org/abs/2409.20081)] [[github](https://github.com/Cuixxx/ProFD)]
 
@@ -40,7 +40,7 @@
 
 <!-- <a href="https://dl.acm.org/doi/abs/10.1145/3357384.3358132" style="text-decoration:none;"><span style="font-size:12px;color:#FFFFFF;background-color:#555555;padding:1px 4px 2px 6px;">CIKM</span><span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 6px 2px 4px;">2019</span></a> -->
 
-### Preprints & Under Submission
+<!-- ### Preprints & Under Submission
 
 <a href="https://arxiv.org/abs/2410.05317" target="_blank"><img src="https://img.shields.io/badge/arXiv-2410.05317-B31B1B?style=flat-square"></a> Chang Zou†, Xuyang Liu†, Ting Liu, <u>Siteng Huang</u>, Linfeng Zhang, &quot;**Accelerating Diffusion Transformers with Token-wise Feature Caching**&quot;. *arXiv preprint arXiv:2410.05317*. [[pdf](https://arxiv.org/pdf/2410.05317.pdf)] [[github](https://github.com/Shenyi-Z/ToCa)]
 
@@ -56,5 +56,20 @@
 
 <img src="https://img.shields.io/badge/Thesis-Ph.D.-815989?style=flat-square"> <u>Siteng Huang</u>, &quot;**Model Transfer for Multimodal Understanding and Generation**&quot;. Zhejiang University, 2024.
 
-<!-- deep green: 004e00/49846a -->
+deep green: 004e00/49846a
+ -->
 
+
+
+
+### Peer-reviewed Journal Articals
+
+<a href="https://openreview.net/forum?id=o2axlPlXYY" target="_blank"><img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"></a> Can Cui†, <u>Siteng Huang</u>†, Wenxuan Song, Pengxiang Ding, Zhang Min, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. In *Proceedings of the ACM Multimedia 2024*. [[arXiv](https://arxiv.org/abs/2409.20081)] [[github](https://github.com/Cuixxx/ProFD)]
+
+<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> <span style="color:red">(Oral)</span> Yang Liu†, Pengxiang Ding†, <u>Siteng Huang</u>, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. In *Proceedings of the European Conference on Computer Vision 2024*. [[arXiv](http://arxiv.org/abs/2409.07239)] [[github](https://github.com/yliu-cs/PiTe)] [[dataset](https://yliu-cs.github.io/PiTe/)]
+
+<img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Pengxiang Ding, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, <u>Siteng Huang</u>, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. In *Proceedings of the European Conference on Computer Vision 2024*. [[arXiv](https://arxiv.org/abs/2312.14457)]
+
+<div align = "center">
+<img src="Paper_preview/2024RAL.png" height="300px" alt="ral" >
+</div>
