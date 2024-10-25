@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shaowu Tang"
-description              : "Focusing on multi-modal large models." # "Algorithm expert in DAMO Academy, Alibaba. Focusing on multi-modal large models."
+description              : "Seeking Ph.D position" # "Algorithm expert in DAMO Academy, Alibaba. Focusing on multi-modal large models."
 repository               : "swtang9/swtang9.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Siteng Huang (黄思腾)"
+  name             : "Shaowu Tang"
   avatar           : "images/profile.png"
-  bio              : "Algorithm Expert in Alibaba DAMO Academy"
-  location         : "Hangzhou, China"
+  bio              : "M.S. in Soft Robotics"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=mhpkWSYAAAAJ"
-  email            : "siteng.huang@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=VWjcoy0AAAAJ"
+  email            : "tangsw2022@mail.sustech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -44,14 +44,14 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : "https://dblp.uni-trier.de/pid/251/9544.html"
-  orcid            : "https://orcid.org/0000-0002-9735-1186"
+  dblp             : # "https://dblp.uni-trier.de/pid/251/9544.html"
+  orcid            : "https://orcid.org/0009-0007-7563-6862"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "KyonHuang"
+  twitter          : #"KyonHuang"
   vine             :
   weibo            :
   xing             :
