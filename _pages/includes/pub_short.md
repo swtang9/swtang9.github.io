@@ -75,4 +75,4 @@ deep green: 004e00/49846a
 <img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Pengxiang Ding, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, <u>Siteng Huang</u>, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. In *Proceedings of the European Conference on Computer Vision 2024*. [[arXiv](https://arxiv.org/abs/2312.14457)]
 
 
-target="_blank"><img src='./images/whu.png' align="center" style='vertical-align: middle; width: 19px;'></a>
+<img src='./images/whu.png' align="center" style='vertical-align: middle; width: 200px;'>
