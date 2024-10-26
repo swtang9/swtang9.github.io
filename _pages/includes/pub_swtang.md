@@ -14,12 +14,10 @@
 
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[6] Vamos: Versatile Action Models for Video Understanding
-    [<a href="https://arxiv.org/abs/2311.13627" target="_blank">Link</a>]
-    [<a href="https://brown-palm.github.io/Vamos/" target="_blank">Website</a>]
-    [<a href="https://github.com/brown-palm/Vamos" target="_blank">Code</a>]  <br>
-    <b>Shijie Wang</b>, Qi Zhao, Minh Quan Do, Nakul Agarwal, Kwonjoon Lee, and Chen Sun <br>
-    <i>ECCV 2024</i>
+    <span>[4] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Learning Based Exteroception of Soft Underwater Manipulator with Soft Actuator Network 
+    [<a href="/files/paper_pdf/RAL2024c.pdf" target="_blank">PDF</a>] <br>
+    Kailuan Tang, <b><u>Shaowu Tang</u></b>, Chenghua Lu, Shijian Wu, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
+    <i>IEEE Robotics and Automation Letters</i> 
     </span>
     </p>
 
