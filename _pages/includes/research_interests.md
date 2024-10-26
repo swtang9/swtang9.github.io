@@ -1,4 +1,4 @@
-# 🔬 Research Interests
+<!-- # 🔬 Research Interests
 
 Currently, My research has centered on **multi-modal large models**, especially **vision-language models (VLMs)**, including 
 
@@ -7,4 +7,4 @@ Currently, My research has centered on **multi-modal large models**, especially 
 * **Transfer**: parameter-efficient fine-tuning (PEFT/PETL)<sup><a href="https://arxiv.org/abs/2211.12764" target="_blank">VoP</a>,<a href="https://arxiv.org/abs/2405.06217" target="_blank">DARA</a>,<a href="https://arxiv.org/abs/2405.14700" target="_blank">Sparse-Tuning</a></sup>, meta-learning<sup><a href="https://ieeexplore.ieee.org/abstract/document/9747620" target="_blank">MRN</a></sup>, domain adaptation<sup><a href="https://arxiv.org/abs/2312.09553" target="_blank">PDA</a></sup>
 * **Embodied AI**: vision-language-action models (VLAs)<sup><a href="https://arxiv.org/abs/2312.14457" target="_blank">QUAR-VLA</a></sup>, foundation models for robotics
 
-🤝 I am always looking for related collaborations, and most of them have produced top-level publications. Feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested!
+🤝 I am always looking for related collaborations, and most of them have produced top-level publications. Feel free to drop me an <a href="mailto:siteng.huang@gmail.com" target="_blank">email</a> if you are interested! -->
