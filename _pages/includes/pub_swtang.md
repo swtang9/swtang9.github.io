@@ -31,6 +31,18 @@
     [<a href="https://brown-palm.github.io/Vamos/" target="_blank">Website</a>]
     [<a href="https://github.com/brown-palm/Vamos" target="_blank">Code</a>]  <br>
     Yige Wu, Xiaohuang Liu, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
-    <i>IEEE & IFToMM ReMAR, 2024. Best Paper <b>Award</b></i>
+    <i>IEEE & IFToMM ReMAR, 2024. <b>Best Paper Award</b></i>
     </span>
     </p>
+
+
+<p style="text-indent: -1.6rem;margin-left: 1.6rem;">
+    <span>[2] Nested Dual-cavity Origami Enhancing Payload via Collaboration of Positive and Negative Pressure Actuation for Soft Actuator
+    [<a href="https://arxiv.org/abs/2311.13627" target="_blank">Link</a>]
+    [<a href="https://brown-palm.github.io/Vamos/" target="_blank">Website</a>]
+    [<a href="https://github.com/brown-palm/Vamos" target="_blank">Code</a>]  <br>
+    Xiaohuang Liu, Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Fang Chen, Sicong Liu, Hongqiang Wang, Zheng Wang, Jian S. Dai <br>
+    <i>ICIRA, 2024 </i>
+    </span>
+    </p>
+
