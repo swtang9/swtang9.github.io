@@ -8,8 +8,8 @@
 
 <u>Shaowu Tang</u>, Kailuan Tang, Yutao Guo,  Shijian Wu, Jiahao Xu, Benkang Lou, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang, &quot;**Soft Robotic Proprioception Enhancement Via 3D-Printed Differential Optical Waveguide Design**&quot;. [[arXiv](https://arxiv.org/abs/2409.20081)] [[github](https://github.com/Cuixxx/ProFD)]
 <figure class="half">
-    <img src="/images/paper_preview/RAL2024a_1.png" title="RAL2024a_1" width="5">
-    <img src="/images/paper_preview/RAL2024a_2.png" title="RAL2024a_2" width="5">
+    <img src="/images/paper_preview/RAL2024a_1.png = 100x" title="RAL2024a_1">
+    <img src="/images/paper_preview/RAL2024a_2.png = 100x" title="RAL2024a_2">
 </figure>
 
 ---
@@ -86,6 +86,3 @@ deep green: 004e00/49846a
 
 
 <!-- i! I am Shaowu Tang (唐绍武 in Chinese). I am Master student in Soft ronotics. [DAMO Academy](https://damo.alibaba.com/) <a href='https://damo.alibaba.com/' target="_blank"><img src='./images/alibaba.png' align="center" style='vertical-align: middle; width: 78px;'></a> as an Algorithm Expert in Hangzhou. I received my Ph.D. degree from [Zhejiang University](http://www.zju.edu.cn/) <a href="http://www.zju.edu.cn/" target="_blank"><img src='./images/zju.png' align="center" style='vertical-align: middle; width: 19px;'></a> in June 2024, affiliated with a joint program with [Westlake University](https://www.westlake.edu.cn/) <a href="https://www.westlake.edu.cn/" target="_blank"><img src='./images/westlake.png' align="center" style='vertical-align: middle; width: 19px;'></a> at [Machine Intelligence Laboratory (MiLAB)](https://milab.westlake.edu.cn/) and advised by Prof. [Donglin Wang](https://en.westlake.edu.cn/faculty/donglin-wang.html). Before that, I received my B.Eng. Degree from School of Computer Science, [Wuhan University](https://www.whu.edu.cn/) <a href="https://www.whu.edu.cn/" target="_blank"><img src='./images/whu.png' align="center" style='vertical-align: middle; width: 19px;'></a> in June 2019. -->
-
-
-
