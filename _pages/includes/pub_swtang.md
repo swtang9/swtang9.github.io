@@ -65,8 +65,6 @@
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[2] Nested Dual-cavity Origami Enhancing Payload via Collaboration of Positive and Negative Pressure Actuation for Soft Actuator
-    [<a href="https://arxiv.org/abs/2311.13627" target="_blank">Link</a>]
-    [<a href="https://brown-palm.github.io/Vamos/" target="_blank">Website</a>]
     [<a href="https://github.com/brown-palm/Vamos" target="_blank">Code</a>]  <br>
     Xiaohuang Liu, Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Fang Chen, Sicong Liu, Hongqiang Wang, Zheng Wang, Jian S. Dai <br>
     <i>ICIRA, 2024 </i>
@@ -83,7 +81,9 @@
     </p>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper_preview/RAL2024a_1.png' alt="sym" width=200></div></div>
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper_preview/RAL2024a_1.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
@@ -95,4 +95,4 @@
     </span>
     </p> 
 </div>
-</div>
+</div> -->
