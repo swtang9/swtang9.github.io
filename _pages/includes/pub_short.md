@@ -22,7 +22,7 @@
 
 
 <figure>  
-<img  src="https://i-blog.csdnimg.cn/blog_migrate/70d082136b1d5d88b536286c1373ad7f.png"  width="200"  align="left" /> 
+<img  src="/images/paper_preview/RAL2024a_1.png"  width="200"  align="left" /> 
 
 <u>Shaowu Tang</u>, Kailuan Tang, Yutao Guo,  Shijian Wu, Jiahao Xu, Benkang Lou, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang, &quot;**Soft Robotic Proprioception Enhancement Via 3D-Printed Differential Optical Waveguide Design**&quot;. [[arXiv](https://arxiv.org/abs/2409.20081)] [[github](https://github.com/Cuixxx/ProFD)]
 </figure>
