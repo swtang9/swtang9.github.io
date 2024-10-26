@@ -21,3 +21,16 @@
     <i>ECCV 2024</i>
     </span>
     </p>
+
+
+### Peer-reviewed Conference Papers
+
+<p style="text-indent: -1.6rem;margin-left: 1.6rem;">
+    <span>[3] A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse
+    [<a href="https://arxiv.org/abs/2311.13627" target="_blank">Link</a>]
+    [<a href="https://brown-palm.github.io/Vamos/" target="_blank">Website</a>]
+    [<a href="https://github.com/brown-palm/Vamos" target="_blank">Code</a>]  <br>
+    Yige Wu, Xiaohuang Liu, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
+    <i>IEEE & IFToMM ReMAR, 2024. Best Paper <b>Award</b></i>
+    </span>
+    </p>
