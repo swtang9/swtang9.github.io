@@ -35,5 +35,3 @@ redirect_from:
 
 <!-- {% include_relative includes/misc.md %} -->
 
-
-<!-- 读文件，要增加内容在此处先设置 -->
