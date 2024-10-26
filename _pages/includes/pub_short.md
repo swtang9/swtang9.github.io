@@ -18,8 +18,8 @@ describe describe describe describe describe describedescribe describe described
 
 
 <figure class="half">
-    <img src="/images/paper_preview/RAL2024a_1.png" title="RAL2024a_1">
-    <img src="/images/paper_preview/RAL2024a_2.png" title="RAL2024a_2">
+    <img src="/images/paper_preview/RAL2024a_1.png" title="RAL2024a_1" width="100">
+    <img src="/images/paper_preview/RAL2024a_2.png" title="RAL2024a_2" width="100">
 </figure>
 
 
