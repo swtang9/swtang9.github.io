@@ -2,7 +2,7 @@
 
 # 👋 About Me
 
-Hi! I am Shaowu Tang (唐绍武 in Chinese), a Master student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). Conducting research on soft robots under the guidance of Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html) and Prof. [Zheng Wang](https://mee.sustech.edu.cn/jiaozhiyuangong/896.html). Before that, I received my B.Eng. Degree in Mechatronics Engneering from [Mao Yisheng Honors College](https://mys.swjtu.edu.cn/en/HOME.htm), [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in June 2018.
+Hi! I am Shaowu Tang (唐绍武 in Chinese), a 3rd-year Master student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). Conducting research on soft robotics under the guidance of Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html) and Prof. [Zheng Wang](https://mee.sustech.edu.cn/jiaozhiyuangong/896.html). Before that, I received my B.Eng. Degree in Mechatronics Engneering from [Mao Yisheng Honors College](https://mys.swjtu.edu.cn/en/HOME.htm), [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in June 2018.
 
 
 
