@@ -2,12 +2,9 @@
 
 # 👋 About Me
 
-😀 Hi! I am Shaowu Tang (唐绍武 in Chinese), a 3rd-year Master’s Student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). My research focus on soft robots and bio-inspired robots, including their structural design, control and sensing method. soft robotics under the guidance of Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html) and Prof. [Zheng Wang](https://mee.sustech.edu.cn/jiaozhiyuangong/896.html). Before that, I received my B.Eng. Degree in Mechatronics Engneering from [Mao Yisheng Honors College](https://mys.swjtu.edu.cn/en/HOME.htm), [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in June 2018.
+😀 Hi there! I am Shaowu Tang (唐绍武 in Chinese), a 3rd-year Master’s Student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). My research focus on soft robots and bio-inspired robots, including their structural design, control and sensing method, and advised by Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html) and Prof. [Zheng Wang](https://mee.sustech.edu.cn/jiaozhiyuangong/896.html). Before that, I received my B.Eng. Degree in Mechatronics Engneering from [Mao Yisheng Honors College](https://mys.swjtu.edu.cn/en/HOME.htm), [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in June 2018.
 
 
-
-
-Hello everyone! I am Tang Shaowu, a third-year master's student at Southern University of Science and Technology. My research focus on soft robotics, and I am lucky to have the guidance of Professor Dai Jiansheng and Professor Wang Zheng, with their help I gradually became excited about scientific research and exploring the unknown. Before joining the graduate program, I received a bachelor's degree in mechanical and electrical engineering from the Mao Yisheng Honors College of Southwest Jiaotong University and graduated in June 2018. I am very happy to be here to share my academic journey with you. 😊
 
 
 
