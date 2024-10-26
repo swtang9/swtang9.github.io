@@ -7,6 +7,7 @@
     <span>[5] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Soft Robotic Proprioception Enhancement Via 3D-Printed Differential Optical Waveguide Design 
     [<a href="https://ieeexplore.ieee.org/document/10564110" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2024b.pdf" target="_blank">PDF</a>]
+    [<a href="/files/paper_video/RAL2024b_video.mp4" target="_blank">Video</a>]
      <br>
      <b><u>Shaowu Tang</u></b>, Kailuan Tang, Yutao Guo,  Shijian Wu, Jiahao Xu, Benkang Lou, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i> 
