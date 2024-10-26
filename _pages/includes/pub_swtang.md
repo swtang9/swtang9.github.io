@@ -54,9 +54,8 @@
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[3] A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse
-    [<a href="https://arxiv.org/abs/2311.13627" target="_blank">Link</a>]
-    [<a href="https://brown-palm.github.io/Vamos/" target="_blank">Website</a>]
-    [<a href="https://github.com/brown-palm/Vamos" target="_blank">Code</a>]  <br>
+    [<a href="https://ieeexplore.ieee.org/abstract/document/10619986/" target="_blank">Link</a>]
+    [<a href="/files/paper_slide/remar2024a.pdf" target="_blank">Link</a>] <br>
     Yige Wu, Xiaohuang Liu, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
     <i>IEEE & IFToMM ReMAR, 2024. <b>Best Paper Award</b></i>
     </span>
@@ -72,7 +71,7 @@
     </p>
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[1] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023</span> Miura-origami Soft Robots with Proprioceptive and Interactive Sensing via Embedded Optical Sensors 
+    <span>[1] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Miura-origami Soft Robots with Proprioceptive and Interactive Sensing via Embedded Optical Sensors 
     [<a href="/files/paper_slide/ICCES2024a.pdf" target="_blank">Slide</a>]
     <a class='paper_citations_badges' data='VWjcoy0AAAAJ:2osOgNQ5qMEC' href="" target="_blank"></a> <br>
     Kailuan Tang, Chenghua Lu, Yishan Chen, Yin Xiao, Shijian Wu, <b><u>Shaowu Tang</u></b>, Hexiang Wang, Binbin Zhang, Zhong Shen, Juan Yi, Sicong Liu, Zheng Wang <br>
