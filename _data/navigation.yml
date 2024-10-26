@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-pub_swtang"
 
   - title: "Research"
     url: "/#-research-interests"
