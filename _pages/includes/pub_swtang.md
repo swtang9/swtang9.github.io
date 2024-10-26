@@ -5,8 +5,9 @@
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[5] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Soft Robotic Proprioception Enhancement Via 3D-Printed Differential Optical Waveguide Design 
+    [<a href="https://ieeexplore.ieee.org/document/10564110" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2024b.pdf" target="_blank">PDF</a>]
-    [<a href="https://ieeexplore.ieee.org/document/10564110" target="_blank">Link</a>] <br>
+     <br>
      <b><u>Shaowu Tang</u></b>, Kailuan Tang, Yutao Guo,  Shijian Wu, Jiahao Xu, Benkang Lou, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i> 
     </span>
@@ -22,8 +23,9 @@
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[3] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> High-Performance Hydraulic Soft Robotic Control Using Continuous Flow Regulation and Partial Feedback 
+    [<a href="https://ieeexplore.ieee.org/abstract/document/10564155" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2024a.pdf" target="_blank">PDF</a>]
-    [<a href="https://ieeexplore.ieee.org/abstract/document/10564155" target="_blank">Link</a>] <br>
+    <br>
     Shijian Wu, Kailuan Tang, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i> 
     </span>
@@ -31,9 +33,9 @@
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[2] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023</span> Performance enhancement of the soft robotic segment for a trunk-like arm 
-    [<a href="/files/paper_pdf/Frontiers2023a.pdf" target="_blank">PDF</a>]
     [<a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1210217/full" target="_blank">Link</a>] 
-    <a class='paper_citations_badges' data='mhpkWSYAAAAJ:roLk4NBRz8UC' href="" target="_blank"></a> <br>
+    [<a href="/files/paper_pdf/Frontiers2023a.pdf" target="_blank">PDF</a>]
+    <br>
     <b><u>Shaowu Tang†</u></b>, Kailuan Tang†, Shijian Wu, Yin Xiao, Sicong Liu, Juan Yi, Zheng Wang <br>
     <i>Frontiers in Robotics and AI</i> 
     </span>
@@ -41,8 +43,8 @@
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[1] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023</span> A Strong Underwater Soft Manipulator with Planarly-bundled Actuators and Accurate Position Control 
-    [<a href="/files/paper_pdf/RAL2023a.pdf" target="_blank">PDF</a>]
     [<a href="https://ieeexplore.ieee.org/abstract/document/10564155" target="_blank">Link</a>]
+    [<a href="/files/paper_pdf/RAL2023a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_slide/ral2023a_icra.pdf" target="_blank">Slide</a>]
     <a class='paper_citations_badges' data='mhpkWSYAAAAJ:roLk4NBRz8UC' href="" target="_blank"></a> <br>
     Kailuan Tang, Chenghua Lu, Yishan Chen, Yin Xiao, Shijian Wu, <b><u>Shaowu Tang</u></b>, Hexiang Wang, Binbin Zhang, Zhong Shen, Juan Yi, Sicong Liu, Zheng Wang <br>
