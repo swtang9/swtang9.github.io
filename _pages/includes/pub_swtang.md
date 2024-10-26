@@ -83,13 +83,17 @@
     </p>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper_preview/RAL2024a_1.png' alt="sym" width=100></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper_preview/RAL2024a_1.png' alt="sym" width=200></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
-
-Kailuan Tang, Chenghua Lu, Yishan Chen, Yin Xiao, Shijian Wu, <b><u>Shaowu Tang</u></b>, Hexiang Wang, Binbin Zhang, Zhong Shen, Juan Yi, Sicong Liu, Zheng Wang <br>
-<i>IEEE Robotics and Automation Letters</i> 
+<p style="text-indent: -1.6rem;margin-left: 1.6rem;">
+    <span>[5] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Soft Robotic Proprioception Enhancement Via 3D-Printed Differential Optical Waveguide Design 
+    [<a href="/files/paper_pdf/RAL2024b.pdf" target="_blank">PDF</a>]
+    [<a href="https://ieeexplore.ieee.org/document/10564110" target="_blank">Link</a>] <br>
+     <b><u>Shaowu Tang</u></b>, Kailuan Tang, Yutao Guo,  Shijian Wu, Jiahao Xu, Benkang Lou, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
+    <i>IEEE Robotics and Automation Letters</i> 
+    </span>
+    </p> 
 </div>
 </div>
 
