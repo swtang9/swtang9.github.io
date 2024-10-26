@@ -83,7 +83,7 @@
     </p>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper_preview/RAL2024a_1.png' alt="sym" width=200></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/paper_preview/RAL2024a_1.png' alt="sym" width="100"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
@@ -99,6 +99,6 @@
 
 
 
-AA<a class='paper_citations_badges' data='VWjcoy0AAAAJ:2osOgNQ5qMEC' href="" target="_blank"></a>
+AA <a class='paper_citations_badges' data='VWjcoy0AAAAJ:2osOgNQ5qMEC' href="" target="_blank"></a>
 
 <!-- <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"></a> Shuanghao Bai, Min Zhang, Wanqi Zhou, <u>Siteng Huang</u>, Zhirong Luan, Donglin Wang, Badong Chen, &quot;**Prompt-based Distribution Alignment for Unsupervised Domain Adaptation**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[arXiv](https://arxiv.org/abs/2312.09553)] <a class='paper_citations_badges' data='VWjcoy0AAAAJ:u-x6o8ySG0sC' href="" target="_blank"></a> -->
