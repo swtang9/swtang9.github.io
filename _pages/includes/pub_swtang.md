@@ -73,6 +73,15 @@
     </span>
     </p>
 
-AA<a class='paper_citations_badges' data='mhpkWSYAAAAJ:roLk4NBRz8UC' href="" target="_blank"></a>
+<p style="text-indent: -1.6rem;margin-left: 1.6rem;">
+    <span>[1] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023</span> Miura-origami Soft Robots with Proprioceptive and Interactive Sensing via Embedded Optical Sensors 
+    [<a href="/files/paper_slide/ICCES2024a.pdf" target="_blank">Slide</a>]
+    <a class='paper_citations_badges' data='mhpkWSYAAAAJ:roLk4NBRz8UC' href="" target="_blank"></a> <br>
+    Kailuan Tang, Chenghua Lu, Yishan Chen, Yin Xiao, Shijian Wu, <b><u>Shaowu Tang</u></b>, Hexiang Wang, Binbin Zhang, Zhong Shen, Juan Yi, Sicong Liu, Zheng Wang <br>
+    <i>IEEE Robotics and Automation Letters</i> 
+    </span>
+    </p>
 
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"></a> Shuanghao Bai, Min Zhang, Wanqi Zhou, <u>Siteng Huang</u>, Zhirong Luan, Donglin Wang, Badong Chen, &quot;**Prompt-based Distribution Alignment for Unsupervised Domain Adaptation**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[arXiv](https://arxiv.org/abs/2312.09553)] <a class='paper_citations_badges' data='mhpkWSYAAAAJ:roLk4NBRz8UC' href="" target="_blank"></a>
+AA<a class='paper_citations_badges' data='https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=VWjcoy0AAAAJ&sortby=pubdate&citation_for_view=VWjcoy0AAAAJ:u-x6o8ySG0sC' href="" target="_blank"></a>
+
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"></a> Shuanghao Bai, Min Zhang, Wanqi Zhou, <u>Siteng Huang</u>, Zhirong Luan, Donglin Wang, Badong Chen, &quot;**Prompt-based Distribution Alignment for Unsupervised Domain Adaptation**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[arXiv](https://arxiv.org/abs/2312.09553)] <a class='paper_citations_badges' data='VWjcoy0AAAAJ:u-x6o8ySG0sC' href="" target="_blank"></a>
