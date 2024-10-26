@@ -21,7 +21,7 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
-{% include_relative includes/services.md %}
+{% include_relative includes/education.md %}
 
 {% include_relative includes/news.md %}
 
