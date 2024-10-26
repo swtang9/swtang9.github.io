@@ -82,6 +82,23 @@
     </span>
     </p>
 
+
+div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/paper_preview/RAL2024a_1' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
+**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+
+[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+- **Academic Impact**: This work is included by many famous speech synthesis open-source projects, such as [ESPNet ![](https://img.shields.io/github/stars/espnet/espnet?style=social)](https://github.com/espnet/espnet). Our work are promoted by more than 20 media and forums, such as [机器之心](https://mp.weixin.qq.com/s/UkFadiUBy-Ymn-zhJ95JcQ)、[InfoQ](https://www.infoq.cn/article/tvy7hnin8bjvlm6g0myu).
+- **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
+</div>
+</div>
+
+
+
 AA<a class='paper_citations_badges' data='VWjcoy0AAAAJ:2osOgNQ5qMEC' href="" target="_blank"></a>
 
 <!-- <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"></a> Shuanghao Bai, Min Zhang, Wanqi Zhou, <u>Siteng Huang</u>, Zhirong Luan, Donglin Wang, Badong Chen, &quot;**Prompt-based Distribution Alignment for Unsupervised Domain Adaptation**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[arXiv](https://arxiv.org/abs/2312.09553)] <a class='paper_citations_badges' data='VWjcoy0AAAAJ:u-x6o8ySG0sC' href="" target="_blank"></a> -->
