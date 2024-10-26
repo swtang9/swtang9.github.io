@@ -21,7 +21,7 @@ redirect_from:
 
 {% include_relative includes/intro.md %}
 
-<!-- {% include_relative includes/research_interests.md %} -->
+{% include_relative includes/research_interests.md %}
 
 {% include_relative includes/news.md %}
 
