@@ -1,7 +1,7 @@
 # 📝 Publications
 
 
-### Peer-reviewed Journal Articals
+## Peer-reviewed Journal Articals
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[5] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Soft Robotic Proprioception Enhancement Via 3D-Printed Differential Optical Waveguide Design 
@@ -50,7 +50,7 @@
     </span>
     </p>
 
-### Peer-reviewed Conference Papers
+## Peer-reviewed Conference Papers
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[3] A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse
@@ -73,6 +73,6 @@
     </span>
     </p>
 
-
+<a class='paper_citations_badges' data='mhpkWSYAAAAJ:roLk4NBRz8UC' href="" target="_blank"></a>
 
 <!-- <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830" target="_blank"><img src="https://img.shields.io/badge/AAAI-2024-blue?style=flat-square"></a> Shuanghao Bai, Min Zhang, Wanqi Zhou, <u>Siteng Huang</u>, Zhirong Luan, Donglin Wang, Badong Chen, &quot;**Prompt-based Distribution Alignment for Unsupervised Domain Adaptation**&quot;. In *Proceedings of the 38th AAAI Conference on Artificial Intelligence*. [[arXiv](https://arxiv.org/abs/2312.09553)] <a class='paper_citations_badges' data='mhpkWSYAAAAJ:roLk4NBRz8UC' href="" target="_blank"></a> -->
