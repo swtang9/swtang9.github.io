@@ -53,9 +53,10 @@
 ## Peer-reviewed Conference Papers
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[3] A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse
+    <span>[3] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse
     [<a href="https://ieeexplore.ieee.org/abstract/document/10619986/" target="_blank">Link</a>]
-    [<a href="/files/paper_slide/remar2024a.pdf" target="_blank">Link</a>] <br>
+    [<a href="/files/paper_slide/ReMar2024a.pdf" target="_blank">Link</a>] 
+    <br>
     Yige Wu, Xiaohuang Liu, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
     <i>IEEE & IFToMM ReMAR, 2024. <b>Best Paper Award</b></i>
     </span>
@@ -63,7 +64,7 @@
 
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[2] Nested Dual-cavity Origami Enhancing Payload via Collaboration of Positive and Negative Pressure Actuation for Soft Actuator
+    <span>[2] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Nested Dual-cavity Origami Enhancing Payload via Collaboration of Positive and Negative Pressure Actuation for Soft Actuator
     [<a href="https://github.com/brown-palm/Vamos" target="_blank">Code</a>]  <br>
     Xiaohuang Liu, Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Fang Chen, Sicong Liu, Hongqiang Wang, Zheng Wang, Jian S. Dai <br>
     <i>ICIRA, 2024 </i>
