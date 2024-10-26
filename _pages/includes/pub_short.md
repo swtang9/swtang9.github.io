@@ -14,8 +14,11 @@
 
 
 <!-- <img src='/images/whu.png' align="right" style='vertical-align: middle; width: 200px;'> -->
-describe describe describe describe describe describedescribe describe describedescribe describe describedescribe describe describedescribe describe describedescribe describe describedescribe describe describedescribe describe describedescribe describe
 
+
+&quot;**Soft Robotic Proprioception Enhancement Via 3D-Printed Differential Optical Waveguide Design**&quot;
+<u>Shaowu Tang</u> 
+Yang Liu†, Pengxiang Ding†, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. In *Proceedings of the European Conference on Computer Vision 2024*. [[arXiv](http://arxiv.org/abs/2409.07239)] [[github](https://github.com/yliu-cs/PiTe)] [[dataset](https://yliu-cs.github.io/PiTe/)]
 
 <figure class="half">
     <img src="/images/paper_preview/RAL2024a_1.png" title="RAL2024a_1" width="100">
