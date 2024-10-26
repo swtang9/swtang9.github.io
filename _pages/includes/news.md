@@ -18,4 +18,4 @@
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2023/02/28</span> **[CVPR'23]** One paper ([VoP](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)) about parameter-efficient text-video retrieval got accepted for CVPR 2023. Congratulations to all collaborators! -->
 
 
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/010/18</span> **[_RA-L_]** Our work on soft arm has been accepted! Congratulations to all collaborators!
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/10/18</span> **[Publicatin]** Our work on learning-based collision detection for soft arms has been accepted by the journal **[_RA-L_]**!! Congratulations to all collaborators!
