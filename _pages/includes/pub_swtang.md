@@ -26,6 +26,7 @@
     <span>[3] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> High-Performance Hydraulic Soft Robotic Control Using Continuous Flow Regulation and Partial Feedback 
     [<a href="https://ieeexplore.ieee.org/abstract/document/10564155" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2024a.pdf" target="_blank">PDF</a>]
+    [<a href="/files/paper_video/RAL2024a_video.mp4" target="_blank">Video</a>]
     <br>
     Shijian Wu, Kailuan Tang, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i> 
