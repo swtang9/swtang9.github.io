@@ -48,6 +48,7 @@
     [<a href="https://ieeexplore.ieee.org/abstract/document/10564155" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2023a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_slide/ral2023a_icra.pdf" target="_blank">Slide</a>]
+    [<a href="/files/paper_video/RAL2023a_video.mp4" target="_blank">Video</a>]
     <a class='paper_citations_badges' data='mhpkWSYAAAAJ:roLk4NBRz8UC' href="" target="_blank"></a> <br>
     Kailuan Tang, Chenghua Lu, Yishan Chen, Yin Xiao, Shijian Wu, <b><u>Shaowu Tang</u></b>, Hexiang Wang, Binbin Zhang, Zhong Shen, Juan Yi, Sicong Liu, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i> 

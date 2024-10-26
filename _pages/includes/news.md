@@ -3,6 +3,8 @@
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/10/18</span> **[Publicatin]** Our work on learning-based collision detection for soft arms has been accepted by the journal **_RA-L_**! Congratulations to all collaborators!
 
 
+
+
 <!-- 参考 https://huanwang.tech/ 的样式 -->
 
 <!-- * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/09/09</span> **[New Start]** Joined Alibaba DAMO Academy as an Algorithm Expert!
