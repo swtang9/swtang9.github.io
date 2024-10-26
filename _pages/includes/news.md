@@ -1,5 +1,8 @@
 # 📢 News
 
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/10/18</span> **[Publicatin]** Our work on learning-based collision detection for soft arms has been accepted by the journal **_RA-L_**! Congratulations to all collaborators!
+
+
 <!-- 参考 https://huanwang.tech/ 的样式 -->
 
 <!-- * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/09/09</span> **[New Start]** Joined Alibaba DAMO Academy as an Algorithm Expert!
@@ -16,6 +19,3 @@
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2023/12/09</span> **[AAAI'24]** One [paper](https://arxiv.org/abs/2312.09553) on VLM-based unsupervised domain adaptation got accepted for AAAI 2024.
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2023/04/02</span> **[ICMR'23]** One paper ([RL-CZSL](https://kyonhuang.top/publication/reference-limited-CZSL)) about reference-limited compositional learning got accepted for ICMR 2023. Congratulations to all collaborators!
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2023/02/28</span> **[CVPR'23]** One paper ([VoP](https://kyonhuang.top/publication/text-video-cooperative-prompt-tuning)) about parameter-efficient text-video retrieval got accepted for CVPR 2023. Congratulations to all collaborators! -->
-
-
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/10/18</span> **[Publicatin]** Our work on learning-based collision detection for soft arms has been accepted by the journal **_RA-L_**! Congratulations to all collaborators!
