@@ -23,7 +23,7 @@ redirect_from:
 
 <!-- {% include_relative includes/research_interests.md %} -->
 
-<!-- {% include_relative includes/news.md %} -->
+{% include_relative includes/news.md %}
 
 <!-- {% include_relative includes/pub.md %} -->
 
