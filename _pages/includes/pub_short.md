@@ -5,6 +5,7 @@
 ### Peer-reviewed Journal Articals
 
 <a href="https://openreview.net/forum?id=o2axlPlXYY" target="_blank"><img src="https://img.shields.io/badge/ACMMM-2024-blue?style=flat-square"></a> Can Cui†, <u>Siteng Huang</u>†, Wenxuan Song, Pengxiang Ding, Zhang Min, Donglin Wang, &quot;**ProFD: Prompt-Guided Feature Disentangling for Occluded Person Re-Identification**&quot;. In *Proceedings of the ACM Multimedia 2024*. [[arXiv](https://arxiv.org/abs/2409.20081)] [[github](https://github.com/Cuixxx/ProFD)]
+
 <img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> <span style="color:red">(Oral)</span> Yang Liu†, Pengxiang Ding†, <u>Siteng Huang</u>, Min Zhang, Han Zhao, Donglin Wang, &quot;**PiTe: Pixel-Temporal Alignment for Large Video-Language Model**&quot;. In *Proceedings of the European Conference on Computer Vision 2024*. [[arXiv](http://arxiv.org/abs/2409.07239)] [[github](https://github.com/yliu-cs/PiTe)] [[dataset](https://yliu-cs.github.io/PiTe/)]
 
 <img src="https://img.shields.io/badge/ECCV-2024-blue?style=flat-square"> Pengxiang Ding, Han Zhao, Wenxuan Song, Wenjie Zhang, Min Zhang, <u>Siteng Huang</u>, Ningxi Yang, Donglin Wang, &quot;**QUAR-VLA: Vision-Language-Action Model for Quadruped Robots**&quot;. In *Proceedings of the European Conference on Computer Vision 2024*. [[arXiv](https://arxiv.org/abs/2312.14457)]
@@ -12,7 +13,7 @@
 
 <img src='./images/paper_preview/2024RAL.png' align="right" style='vertical-align: middle; width: 200px;'>
 
-<img src='./images/whu.png' align="right" style='vertical-align: middle; width: 200px;'>
+<!-- <img src='./images/whu.png' align="right" style='vertical-align: middle; width: 200px;'> -->
 
 
 describe describe describe describe describe describedescribe describe describedescribe describe describedescribe describe describedescribe describe describedescribe describe describedescribe describe describedescribe describe describedescribe describe
