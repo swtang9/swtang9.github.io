@@ -9,6 +9,7 @@
     * Chengdu, China
     * Thesis: The Topography Adaptive Design of a Bipedal Leg-Wheeled Robot
     [<a href="/files/paper_pdf/UG_Thesis.pdf" target="_blank">PDF in Chinese</a>]
+    [<a href="/files/paper_video/UG_thesis.mp4" target="_blank">Video</a>]
 
 
 
