@@ -3,7 +3,7 @@
 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/11/18</span> **[Publication]** Our work on Muscle-Inspired Multifunctional Actuators has been accepted by the journal **_Adv. Sci._**!
 
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/11/15</span> **[Conference]** Together with our lab members, I attended the 9th Soft Robotics Conference held at Tsinghua University in Beijing. It was a great experience! 
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/11/17</span> **[Conference]** Together with our lab members, I attended the 9th Soft Robotics Conference held at Tsinghua University in Beijing. It was a great experience! 
 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/10/18</span> **[Publication]** Our work on Learning-Based Collision Detection for Soft Arms has been accepted by the journal **_RA-L_**!
 
