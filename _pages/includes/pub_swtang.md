@@ -16,6 +16,7 @@
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[4] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Learning Based Exteroception of Soft Underwater Manipulator with Soft Actuator Network. 
+    [<a href="https://ieeexplore.ieee.org/abstract/document/10737404" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2024c.pdf" target="_blank">PDF</a>] <br>
     Kailuan Tang, <b><u>Shaowu Tang</u></b>, Chenghua Lu, Shijian Wu, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i> 
