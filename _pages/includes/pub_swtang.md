@@ -10,7 +10,7 @@
     [<a href="/files/paper_video/RAL2024b_video.mp4" target="_blank">Video</a>] -->
      <br>
      Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Yinyin Su, Xiaohuang Liu, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
-    <i>Advanced Science</i> 
+    <b><i>Advanced Science</i></b> 
     </span>
     </p>
 
