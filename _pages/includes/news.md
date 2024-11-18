@@ -1,5 +1,7 @@
 # 📢 News
 
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/05/26</span> **[Publicatin]** Our work on flow regulation control systems for soft robot has been accepted by the journal **_RA-L_**!
+
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/10/18</span> **[Publicatin]** Our work on learning-based collision detection for soft arms has been accepted by the journal **_RA-L_**!
 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/06/26</span> **[Award]** Our work on multifunctional soft robots won the _**Best Paper Award**_ at the _ReMAR_ conference!
