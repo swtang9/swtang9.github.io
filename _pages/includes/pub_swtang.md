@@ -51,7 +51,7 @@
     [<a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1210217/full" target="_blank">Link</a>] 
     [<a href="/files/paper_pdf/Frontiers2023a.pdf" target="_blank">PDF</a>]
     <br>
-    <b><u>Shaowu Tang†</u></b>, Kailuan Tang†, Shijian Wu, Yin Xiao, Sicong Liu, Juan Yi, Zheng Wang <br>
+    <b><u>Shaowu Tang</u></b>†, Kailuan Tang†, Shijian Wu, Yin Xiao, Sicong Liu, Juan Yi, Zheng Wang <br>
     <i>Frontiers in Robotics and AI</i> 
     </span>
     </p>
