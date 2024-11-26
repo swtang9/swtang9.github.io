@@ -11,7 +11,7 @@
     [<a href="/files/paper_video/AS2024a_video2.mp4" target="_blank">Video2</a>]
      <br>
      Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Yinyin Su, Xiaohuang Liu, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
-    <b><i>Advanced Science</i></b> 
+    <i>Advanced Science</i>
     </span>
     </p>
 
