@@ -4,10 +4,11 @@
 ## Peer-reviewed Journal Articals
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[6] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> 3D Printed Multi-Cavity Soft Actuator with Integrated Motion and Sensing Functionalities via Bio-Inspired Interweaving Foldable Endomysium. (Accepted)
-    <!-- [<a href="https://ieeexplore.ieee.org/document/10564110" target="_blank">Link</a>]
-    [<a href="/files/paper_pdf/RAL2024b.pdf" target="_blank">PDF</a>]
-    [<a href="/files/paper_video/RAL2024b_video.mp4" target="_blank">Video</a>] -->
+    <span>[6] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> 3D Printed Multi-Cavity Soft Actuator with Integrated Motion and Sensing Functionalities via Bio-Inspired Interweaving Foldable Endomysium.
+    [<a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202409060" target="_blank">Link</a>]
+    [<a href="/files/paper_pdf/AS2024a.pdf" target="_blank">PDF</a>]
+    [<a href="/files/paper_video/AS2024a_video1.mp4" target="_blank">Video1</a>]
+    [<a href="/files/paper_video/AS2024a_video2.mp4" target="_blank">Video2</a>]
      <br>
      Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Yinyin Su, Xiaohuang Liu, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
     <b><i>Advanced Science</i></b> 
