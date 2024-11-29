@@ -96,7 +96,7 @@
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[1] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Miura-origami Soft Robots with Proprioceptive and Interactive Sensing via Embedded Optical Sensors. <i>(Abstract, Oral)</i> 
     [<a href="https://www.techscience.com/icces/v30n3/58566" target="_blank">Link</a>]
-    <!-- [<a href="/files/paper_slide/ICCES2024a.pdf" target="_blank">Slide</a>] -->
+    [<a href="/files/paper_slide/ICCES2024a.pdf" target="_blank">Slide</a>]
     <br>
     <b><u>Shaowu Tang</u></b>, Sicong Liu, Jian S. Dai <br>
     <i>ICCES</i> 
