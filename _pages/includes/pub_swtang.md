@@ -74,7 +74,7 @@
     <span>[3] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10619986/" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/ReMar2024a.pdf" target="_blank">PDF</a>] 
-    [<a href="/files/paper_slide/ReMar2024a.pdf" target="_blank">Slide</a>]
+    <!-- [<a href="/files/paper_slide/ReMar2024a.pdf" target="_blank">Slide</a>] -->
     [<a href="/files/paper_video/ReMar2024a_video.mp4" target="_blank">Video</a>] 
     <br>
     Yige Wu, Xiaohuang Liu, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
