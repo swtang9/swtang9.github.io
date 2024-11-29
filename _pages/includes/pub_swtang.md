@@ -86,7 +86,8 @@
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[2] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Nested Dual-cavity Origami Enhancing Payload via Collaboration of Positive and Negative Pressure Actuation for Soft Actuator.
     [<a href="/files/paper_pdf/ICIRA2024a.pdf" target="_blank">PDF</a>]
-    [<a href="/files/paper_slide/ICIRA2024a_slides.pdf" target="_blank">Slide</a>] <br>
+    <!-- [<a href="/files/paper_slide/ICIRA2024a_slides.pdf" target="_blank">Slide</a>]  -->
+    <br>
     Xiaohuang Liu, Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Fang Chen, Sicong Liu, Hongqiang Wang, Zheng Wang, Jian S. Dai <br>
     <i>ICIRA </i>
     </span>
