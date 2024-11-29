@@ -60,7 +60,7 @@
     <span>[1] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023</span> A Strong Underwater Soft Manipulator with Planarly-bundled Actuators and Accurate Position Control.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10564155" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2023a.pdf" target="_blank">PDF</a>]
-    [<a href="/files/paper_slide/ral2023a_icra.pdf" target="_blank">Slide</a>]
+    <!-- [<a href="/files/paper_slide/ral2023a_icra.pdf" target="_blank">Slide</a>] -->
     [<a href="/files/paper_video/RAL2023a_video.mp4" target="_blank">Video</a>]
     <a class='paper_citations_badges' data='mhpkWSYAAAAJ:roLk4NBRz8UC' href="" target="_blank"></a> <br>
     Kailuan Tang, Chenghua Lu, Yishan Chen, Yin Xiao, Shijian Wu, <b><u>Shaowu Tang</u></b>, Hexiang Wang, Binbin Zhang, Zhong Shen, Juan Yi, Sicong Liu, Zheng Wang <br>
@@ -96,7 +96,7 @@
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[1] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Miura-origami Soft Robots with Proprioceptive and Interactive Sensing via Embedded Optical Sensors. <i>(Abstract, Oral)</i> 
     [<a href="https://www.techscience.com/icces/v30n3/58566" target="_blank">Link</a>]
-    [<a href="/files/paper_slide/ICCES2024a.pdf" target="_blank">Slide</a>]
+    <!-- [<a href="/files/paper_slide/ICCES2024a.pdf" target="_blank">Slide</a>] -->
     <br>
     <b><u>Shaowu Tang</u></b>, Sicong Liu, Jian S. Dai <br>
     <i>ICCES</i> 
