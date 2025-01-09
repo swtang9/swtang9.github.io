@@ -1,7 +1,7 @@
 # 📝 Publications
 
 
-## Peer-reviewed Journal Articals
+## Journal Articals
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[6] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> 3D Printed Multi-Cavity Soft Actuator with Integrated Motion and Sensing Functionalities via Bio-Inspired Interweaving Foldable Endomysium.
@@ -67,7 +67,7 @@
     </span>
     </p>
 
-## Peer-reviewed Conference Papers
+## Conference Papers
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[3] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse.
