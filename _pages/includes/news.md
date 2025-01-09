@@ -1,6 +1,6 @@
 # 📢 News
 
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/01/09</span> **[Publication]** Our work on Pump-Valve Pneumatic Actuation Systems for Soft Robot has been accepted by the journal **_RA-L_**! It’s a great start to 2025!
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/01/09</span> **[Publication]** Our work on Pump-Valve Pneumatic Actuation System for Soft Robots has been accepted by the journal **_RA-L_**! It’s a great start to 2025!
 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/11/18</span> **[Publication]** Our work on Muscle-Inspired Multifunctional Actuators has been accepted by the journal **_Adv. Sci._**!
 
@@ -8,7 +8,7 @@
 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/10/18</span> **[Publication]** Our work on Learning-Based Collision Detection for Soft Arms has been accepted by the journal **_RA-L_**!
 
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/06/26</span> **[Award]** Our work on Multifunctional Soft Robots won the _**Best Paper Award**_ at the _ReMAR_ conference!
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/06/26</span> **[Award]** Our work on Multifunctional Soft Robots won the _**Best Paper Award**_ at the 6th **_ReMAR_** conference!
 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/06/01</span> **[Publication]** Our work on 3D-Printed Flexible Optical Waveguide Sensors for Proprioception in Soft Robots has been accepted by the journal **_RA-L_**!
 
