@@ -9,8 +9,8 @@
     [<a href="/files/paper_pdf/RAL2025a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/RAL2025a_video.mp4" target="_blank">Video</a>]
      <br>
-     Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Yinyin Su, Xiaohuang Liu, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
-    <i>Advanced Science</i>
+     Sicong Liu†, Lin Wang†, Zhongfeng Qian†, Dihan Liu, Wenpei Zhu, <b><u>Shaowu Tang</u></b>, Xuda Zhao, Wenjian Yang, Ying Lu, Juan Yi, Jian S. Dai, Zheng Wang <br>
+    <i>IEEE Robotics and Automation Letters</i>
     </span>
     </p>
 
