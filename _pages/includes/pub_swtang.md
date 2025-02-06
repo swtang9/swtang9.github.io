@@ -5,6 +5,17 @@
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[6] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> 3D Printed Multi-Cavity Soft Actuator with Integrated Motion and Sensing Functionalities via Bio-Inspired Interweaving Foldable Endomysium.
+    [<a href="https://ieeexplore.ieee.org/abstract/document/10844342" target="_blank">Link</a>]
+    [<a href="/files/paper_pdf/RAL2025a.pdf" target="_blank">PDF</a>]
+    [<a href="/files/paper_video/RAL2025a_video.mp4" target="_blank">Video</a>]
+     <br>
+     Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Yinyin Su, Xiaohuang Liu, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
+    <i>Advanced Science</i>
+    </span>
+    </p>
+
+<p style="text-indent: -1.6rem;margin-left: 1.6rem;">
+    <span>[6] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> 3D Printed Multi-Cavity Soft Actuator with Integrated Motion and Sensing Functionalities via Bio-Inspired Interweaving Foldable Endomysium.
     [<a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202409060" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/AS2024a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/AS2024a_video.mp4" target="_blank">Video</a>]
