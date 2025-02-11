@@ -94,7 +94,8 @@
 
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[2] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Nested Dual-cavity Origami Enhancing Payload via Collaboration of Positive and Negative Pressure Actuation for Soft Actuator. (Accepted)
+    <span>[2] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Nested Dual-cavity Origami Enhancing Payload via Collaboration of Positive and Negative Pressure Actuation for Soft Actuator.
+    [<a href="https://link.springer.com/chapter/10.1007/978-981-96-0798-3_22" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/ICIRA2024a.pdf" target="_blank">PDF</a>]
     <!-- [<a href="/files/paper_slide/ICIRA2024a_slides.pdf" target="_blank">Slide</a>]  -->
     <br>
