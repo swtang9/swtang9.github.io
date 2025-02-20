@@ -1,6 +1,6 @@
 # 📢 News
 
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/02/20</span> **[Education]** I've received a fully-funded PhD offer from the University of Southern California (USC)! This marks one of the most significant milestones in my life! Heartfelt gratitude to everyone who believed in me along the way!
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/02/20</span> **[Education]** I've received a fully-funded PhD offer from the University of Southern California (USC)! This marks one of the most significant milestones in my life!
 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/01/09</span> **[Publication]** Our work on Pump-Valve Pneumatic Actuation System for Soft Robots has been accepted by the journal **_RA-L_**! It’s a great start to 2025!
 
