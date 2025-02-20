@@ -2,7 +2,9 @@
 
 # 😀 About Me
 
-👋 Hi there! I am Shaowu Tang (唐绍武 in Chinese), a 3rd-year Master’s student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). My research mainly focuses on soft robots and bio-inspired robots, including their structural design, control, and sensing methods. These research works are conducted under the supervision and advice of Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html) and Prof. [Zheng Wang](https://mee.sustech.edu.cn/jiaozhiyuangong/896.html). Before that, I received my B.Eng. Degree in Mechatronics Engineering from [Mao Yisheng Honors College](https://mys.swjtu.edu.cn/en/HOME.htm), [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in June 2018.
+👋 Hi there! I am Shaowu Tang (唐绍武 in Chinese), a 3rd-year Master’s student at [Southern University of Science and Technology](https://www.sustech.edu.cn/en/). My research primarily focuses on *Soft Robotics* and *Bio-inspired robotics*, including their structural design, control, and sensing methodologies. These research works are conducted under the supervision and guidance of Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html) and Prof. [Zheng Wang](https://mee.sustech.edu.cn/jiaozhiyuangong/896.html). Prior to this, I obtained my B.Eng. Degree in Mechatronics Engineering from [Mao Yisheng Honors College](https://mys.swjtu.edu.cn/en/HOME.htm), [Southwest Jiaotong University](https://en.swjtu.edu.cn/) in June 2018.
+
+In the Fall of 2025, I will go to the [University of Southern California](https://www.usc.edu/) to conduct interdisciplinary research in *Soft Robotics* and *Flexible Electronics*.
 
 
 
