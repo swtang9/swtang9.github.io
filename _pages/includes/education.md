@@ -7,9 +7,9 @@
 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2018/09 - 2022/06</span> B.Eng. in Mechanical Design, Manufacturing and Automation, [Southwest Jiaotong University](https://en.swjtu.edu.cn/)
     * Chengdu, China
-    * Thesis: The Topography Adaptive Design of a Bipedal Leg-Wheeled Robot
+    <!-- * Thesis: The Topography Adaptive Design of a Bipedal Leg-Wheeled Robot
     [<a href="/files/paper_pdf/UG_Thesis.pdf" target="_blank">PDF in Chinese</a>]
-    [<a href="/files/paper_video/UG_thesis.mp4" target="_blank">Video</a>]
+    [<a href="/files/paper_video/UG_thesis.mp4" target="_blank">Video</a>] -->
 
 
 
