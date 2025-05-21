@@ -4,7 +4,8 @@
 ## Journal Articals
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[7] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2025</span> Single Pump-Valve Pneumatic Actuation With Continuous Flow Rate Control for Soft Robots.
+    <span>[7] <span> <img src="https://img.shields.io/badge/RA--L-2025-blue?style=flat-square"> </span> 
+    Single Pump-Valve Pneumatic Actuation With Continuous Flow Rate Control for Soft Robots.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10844342" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2025a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/RAL2025a_video.mp4" target="_blank">Video</a>]
@@ -15,7 +16,8 @@
     </p>
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[6] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> 3D Printed Multi-Cavity Soft Actuator with Integrated Motion and Sensing Functionalities via Bio-Inspired Interweaving Foldable Endomysium.
+    <span>[6] <span> <img src="https://img.shields.io/badge/Adv. Sci.-2025-blue?style=flat-square"> </span> 
+    3D Printed Multi-Cavity Soft Actuator with Integrated Motion and Sensing Functionalities via Bio-Inspired Interweaving Foldable Endomysium.
     [<a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202409060" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/AS2024a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/AS2024a_video.mp4" target="_blank">Video</a>]
@@ -26,7 +28,8 @@
     </p>
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[5] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Soft Robotic Proprioception Enhancement Via 3D-Printed Differential Optical Waveguide Design. 
+    <span>[5] <span> <img src="https://img.shields.io/badge/RA--L-2024-blue?style=flat-square"> </span> 
+    Soft Robotic Proprioception Enhancement Via 3D-Printed Differential Optical Waveguide Design. 
     [<a href="https://ieeexplore.ieee.org/document/10564110" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2024b.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/RAL2024b_video.mp4" target="_blank">Video</a>]
@@ -37,7 +40,8 @@
     </p>
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[4] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Learning Based Exteroception of Soft Underwater Manipulator with Soft Actuator Network. 
+    <span>[4] <span> <img src="https://img.shields.io/badge/RA--L-2024-blue?style=flat-square"> </span> 
+    Learning Based Exteroception of Soft Underwater Manipulator with Soft Actuator Network. 
     [<a href="https://ieeexplore.ieee.org/abstract/document/10737404" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2024c.pdf" target="_blank">PDF</a>] <br>
     Kailuan Tang, <b><u>Shaowu Tang</u></b>, Chenghua Lu, Shijian Wu, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
@@ -46,7 +50,8 @@
     </p>
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[3] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> High-Performance Hydraulic Soft Robotic Control Using Continuous Flow Regulation and Partial Feedback.
+    <span>[3] <span> <img src="https://img.shields.io/badge/RA--L-2024-blue?style=flat-square"> </span> 
+    High-Performance Hydraulic Soft Robotic Control Using Continuous Flow Regulation and Partial Feedback.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10564155" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2024a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/RAL2024a_video.mp4" target="_blank">Video</a>]
@@ -57,7 +62,8 @@
     </p>
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[2] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023</span> Performance enhancement of the soft robotic segment for a trunk-like arm. 
+    <span>[2] <span> <img src="https://img.shields.io/badge/Front Robot Ai.-2023-blue?style=flat-square"> </span> 
+    Performance enhancement of the soft robotic segment for a trunk-like arm. 
     [<a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1210217/full" target="_blank">Link</a>] 
     [<a href="/files/paper_pdf/Frontiers2023a.pdf" target="_blank">PDF</a>]
     <br>
@@ -67,7 +73,8 @@
     </p>
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[1] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2023</span> A Strong Underwater Soft Manipulator with Planarly-bundled Actuators and Accurate Position Control.
+    <span>[1] <span> <img src="https://img.shields.io/badge/RA--L-2023-blue?style=flat-square"> </span> 
+    A Strong Underwater Soft Manipulator with Planarly-bundled Actuators and Accurate Position Control.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10564155" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2023a.pdf" target="_blank">PDF</a>]
     <!-- [<a href="/files/paper_slide/ral2023a_icra.pdf" target="_blank">Slide</a>] -->
