@@ -1,6 +1,6 @@
 # 📢 News
 
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/05/21</span> **[Education]** I successfully got my study VISA! See you in LA!
+* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/05/21</span> **[Education]** I successfully got my study VISA! See you in LA soon!
 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/02/20</span> **[Education]** I've received a fully-funded PhD offer from the University of Southern California (USC)! This marks one of the most significant milestones in my life!
 
