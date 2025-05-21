@@ -97,7 +97,8 @@
     [<a href="/files/paper_video/ReMar2024a_video.mp4" target="_blank">Video</a>] 
     <br>
     Yige Wu, Xiaohuang Liu, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
-    <b>Best Paper Award</b></i>
+    <i>The 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR). 2024. Chicago, IL, USA </i> <br>
+    <i><b>Best Paper Award</b></i>
     </span>
 </p>
 
@@ -109,16 +110,18 @@
     <!-- [<a href="/files/paper_slide/ICIRA2024a_slides.pdf" target="_blank">Slide</a>]  -->
     <br>
     Xiaohuang Liu, Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Fang Chen, Sicong Liu, Hongqiang Wang, Zheng Wang, Jian S. Dai <br>
+    <i>The 17th International Conference on Intelligent Robotics and Applications (ICIRA), Xi'an China</i>
     </span>
     </p>
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[2] <span> <img src="https://img.shields.io/badge/ICCES-2024-blue?style=flat-square"> </span>
+    <span>[1] <span> <img src="https://img.shields.io/badge/ICCES-2024-blue?style=flat-square"> </span>
      Miura-origami Soft Robots with Proprioceptive and Interactive Sensing via Embedded Optical Sensors. <i>(Abstract, Oral)</i> 
     [<a href="https://www.techscience.com/icces/v30n3/58566" target="_blank">Link</a>]
     [<a href="/files/paper_slide/ICCES2024a.pdf" target="_blank">Slides</a>]
     <br>
     <b><u>Shaowu Tang</u></b>, Sicong Liu, Jian S. Dai <br>
+    <i>The 30th International Conference on Computational & Experimental Engineering and Sciences (ICCES). 2024. Singapore</i>
     </span>
     </p>
 
