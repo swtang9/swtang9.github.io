@@ -80,37 +80,38 @@
 
 ## Conference Papers
 
+
+
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[3] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse.
+    <span>[3] <span> <img src="https://img.shields.io/badge/ReMAR-2024-blue?style=flat-square"> </span> A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10619986/" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/ReMar2024a.pdf" target="_blank">PDF</a>] 
     <!-- [<a href="/files/paper_slide/ReMar2024a.pdf" target="_blank">Slide</a>] -->
     [<a href="/files/paper_video/ReMar2024a_video.mp4" target="_blank">Video</a>] 
     <br>
     Yige Wu, Xiaohuang Liu, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
-    <i>ReMAR, <b>Best Paper Award</b></i>
+    <b>Best Paper Award</b></i>
     </span>
-    </p>
+</p>
 
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[2] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Nested Dual-cavity Origami Enhancing Payload via Collaboration of Positive and Negative Pressure Actuation for Soft Actuator.
+    <span>[2] <span> <img src="https://img.shields.io/badge/ICIRA-2024-blue?style=flat-square"> </span> Nested Dual-cavity Origami Enhancing Payload via Collaboration of Positive and Negative Pressure Actuation for Soft Actuator.
     [<a href="https://link.springer.com/chapter/10.1007/978-981-96-0798-3_22" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/ICIRA2024a.pdf" target="_blank">PDF</a>]
     <!-- [<a href="/files/paper_slide/ICIRA2024a_slides.pdf" target="_blank">Slide</a>]  -->
     <br>
     Xiaohuang Liu, Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Fang Chen, Sicong Liu, Hongqiang Wang, Zheng Wang, Jian S. Dai <br>
-    <i>ICIRA </i>
     </span>
     </p>
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[1] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Miura-origami Soft Robots with Proprioceptive and Interactive Sensing via Embedded Optical Sensors. <i>(Abstract, Oral)</i> 
+    <span>[2] <span> <img src="https://img.shields.io/badge/ICCES-2024-blue?style=flat-square"> </span>
+     Miura-origami Soft Robots with Proprioceptive and Interactive Sensing via Embedded Optical Sensors. <i>(Abstract, Oral)</i> 
     [<a href="https://www.techscience.com/icces/v30n3/58566" target="_blank">Link</a>]
     [<a href="/files/paper_slide/ICCES2024a.pdf" target="_blank">Slides</a>]
     <br>
     <b><u>Shaowu Tang</u></b>, Sicong Liu, Jian S. Dai <br>
-    <i>ICCES</i> 
     </span>
     </p>
 
