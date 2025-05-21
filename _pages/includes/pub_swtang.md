@@ -97,7 +97,7 @@
     [<a href="/files/paper_video/ReMar2024a_video.mp4" target="_blank">Video</a>] 
     <br>
     Yige Wu, Xiaohuang Liu, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
-    <i>The 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR). 2024. Chicago, IL, USA </i> <br>
+    <i>The 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR). Chicago, USA </i> <br>
     <i><b>Best Paper Award</b></i>
     </span>
 </p>
@@ -121,23 +121,6 @@
     [<a href="/files/paper_slide/ICCES2024a.pdf" target="_blank">Slides</a>]
     <br>
     <b><u>Shaowu Tang</u></b>, Sicong Liu, Jian S. Dai <br>
-    <i>The 30th International Conference on Computational & Experimental Engineering and Sciences (ICCES). 2024. Singapore</i>
+    <i>The 30th International Conference on Computational & Experimental Engineering and Sciences (ICCES). Singapore</i>
     </span>
     </p>
-
-
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><img src='images/paper_preview/RAL2024a_1.png' alt="sym" width=200></div></div>
-<div class='paper-box-text' markdown="1">
-
-<p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[5] <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1px 5px;">2024</span> Soft Robotic Proprioception Enhancement Via 3D-Printed Differential Optical Waveguide Design 
-    [<a href="/files/paper_pdf/RAL2024b.pdf" target="_blank">PDF</a>]
-    [<a href="https://ieeexplore.ieee.org/document/10564110" target="_blank">Link</a>] <br>
-     <b><u>Shaowu Tang</u></b>, Kailuan Tang, Yutao Guo,  Shijian Wu, Jiahao Xu, Benkang Lou, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
-    <i>IEEE Robotics and Automation Letters</i> 
-    </span>
-    </p> 
-</div>
-</div> -->
