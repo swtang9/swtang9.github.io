@@ -25,7 +25,7 @@ redirect_from:
 
 <!-- {% include_relative includes/experience.md %} -->
 
-{% include_relative includes/honers.md %}
+{% include_relative includes/experience.md %}
 
 {% include_relative includes/news.md %}
 
