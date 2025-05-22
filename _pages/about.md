@@ -23,9 +23,9 @@ redirect_from:
 
 {% include_relative includes/education.md %}
 
-{% include_relative includes/Professional Experience.md %}
+{% include_relative includes/experience.md %}
 
-{% include_relative includes/news.md %}
+<!-- {% include_relative includes/news.md %} -->
 
 {% include_relative includes/pub_swtang.md %}
 

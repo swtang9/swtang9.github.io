@@ -5,7 +5,7 @@
 
 * <img src="https://img.shields.io/badge/Edu-2025/05/08-blue?style=flat-square"> I successfully defended my Master’s thesis! I’m deeply grateful for everyone’s support throughout this journey!
 
-* <img src="https://img.shields.io/badge/Edu-2025/03/20-blue?style=flat-square"> I joined the [BFI Lab](https://bfilab.com/) at [SZTU](https://english.sztu.edu.cn/) as a RA and participated in its initial construction!
+* <img src="https://img.shields.io/badge/Exp-2025/03/20-blue?style=flat-square"> I joined the [BFI Lab](https://bfilab.com/) at [SZTU](https://english.sztu.edu.cn/) as a RA and participated in its initial construction!
 
 * <img src="https://img.shields.io/badge/Edu-2025/02/20-blue?style=flat-square"> I've received a fully-funded PhD offer from the University of Southern California (USC)! This marks one of the most significant milestones in my life!
 
