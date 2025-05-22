@@ -97,7 +97,7 @@
     [<a href="/files/paper_video/ReMar2024a_video.mp4" target="_blank">Video</a>] 
     <br>
     Yige Wu, Xiaohuang Liu, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
-    <i>The 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR). Chicago, USA </i> <br>
+    <i>The 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR), Chicago, USA </i> <br>
     <i><b>Best Paper Award</b></i>
     </span>
 </p>
@@ -121,6 +121,6 @@
     [<a href="/files/paper_slide/ICCES2024a.pdf" target="_blank">Slides</a>]
     <br>
     <b><u>Shaowu Tang</u></b>, Sicong Liu, Jian S. Dai <br>
-    <i>The 30th International Conference on Computational & Experimental Engineering and Sciences (ICCES). Singapore</i>
+    <i>The 30th International Conference on Computational & Experimental Engineering and Sciences (ICCES), Singapore</i>
     </span>
     </p>
