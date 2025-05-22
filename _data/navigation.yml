@@ -6,8 +6,11 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Professional Experience"
-    url: "/#-experience"
+  - title: "Education1"
+    url: "/#-education"
+
+  # - title: "Professional Experience"
+  #   url: "/#-experience"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
