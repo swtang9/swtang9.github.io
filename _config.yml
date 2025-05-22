@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shaowu Tang"
-description              : "Focusing on Soft Robotics and Soft Sensing" # "Algorithm expert in DAMO Academy, Alibaba. Focusing on multi-modal large models."
+description              : "Focusing on Soft Robotics and Soft Sensing" 
 repository               : "swtang9/swtang9.github.io"
 google_scholar_stats_use_cdn : true
 
