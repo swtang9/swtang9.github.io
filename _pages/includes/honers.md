@@ -1,4 +1,4 @@
-# 💼 Honors and Awards
+# 💼 Work experience
 
 * <img src="https://img.shields.io/badge/Research Assistant-2025/03--Now-blue?style=flat-square"> Biorobotics and Foldable Intelligence Laboratory ([BFI Lab](https://bfilab.com/) ) at Shenzhen University of Technology ([SZTU](https://english.sztu.edu.cn/))
     * Shenzhen, Guangdong, China
