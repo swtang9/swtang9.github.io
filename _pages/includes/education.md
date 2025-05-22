@@ -1,6 +1,6 @@
 # 👨‍🎓 Education
 
-* <img src="https://img.shields.io/badge/Ph.D.-incoming-blue?style=flat-square"> Mechanical Engineering, [University of Southern California](https://www.usc.edu/)
+* <img src="https://img.shields.io/badge/Ph.D.-Incoming-blue?style=flat-square"> Mechanical Engineering, [University of Southern California](https://www.usc.edu/)
     * Los Angeles, CA, USA
 
 * <img src="https://img.shields.io/badge/M.Eng-2022/09--2025/06-blue?style=flat-square"> Intelligent Manufacturing and Robotics, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)

@@ -1,4 +1,4 @@
-# 👨‍🎓 Professional Experience
+# 👨🏻‍💻 Professional Experience
 
 * <img src="https://img.shields.io/badge/RA-2025/03--Now-blue?style=flat-square"> Research Assistant at Biorobotics and Foldable Intelligence Laboratory ([BFI Lab](https://bfilab.com/) )
     * Shenzhen, Guangdong, China
