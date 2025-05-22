@@ -1,10 +1,10 @@
-# 👨🏻‍💻 Professional Experience
+# 💼 Professional Experience
 
-* <img src="https://img.shields.io/badge/RA-2025/03--Now-blue?style=flat-square"> Research Assistant at Biorobotics and Foldable Intelligence Laboratory ([BFI Lab](https://bfilab.com/) )
+* <img src="https://img.shields.io/badge/Research Assistant-2025/03--Now-blue?style=flat-square"> Biorobotics and Foldable Intelligence Laboratory ([BFI Lab](https://bfilab.com/) ) at Shenzhen University of Technology ([SZTU](https://english.sztu.edu.cn/))
     * Shenzhen, Guangdong, China
     * Principal Investigator: [Sicong Liu](https://sgim.sztu.edu.cn/info/1161/3862.htm)
 
-* <img src="https://img.shields.io/badge/VS-2022/07--2022/09-blue?style=flat-square"> Visiting Student at Bionic & Control Lab (BCL)
+* <img src="https://img.shields.io/badge/Visiting Student-2022/07--2022/09-blue?style=flat-square"> Bionic & Control Lab (BCL) at Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/))
     * Shenzhen, Guangdong, China
     * Principal Investigator: [Zheng Wang](https://sgim.sztu.edu.cn/info/1161/3862.htm)
 
