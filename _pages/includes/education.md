@@ -1,9 +1,11 @@
 # 👨‍🎓 Education
 
+* <img src="https://img.shields.io/badge/Ph.D.-incoming-blue?style=flat-square"> Ph.D. in Mechanical Engnieering, [University of Southern California](https://www.usc.edu/)
+    * Los Angeles, USA
+
 * <img src="https://img.shields.io/badge/M.Eng-2022/09--2025/06-blue?style=flat-square"> M.Eng. in Intelligent Manufacturing and Robotics, [Southern University of Science and Technology](https://www.sustech.edu.cn/en/)
     * Shenzhen, China
     * Supervisor: [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html) and [Zheng Wang](https://ieeexplore.ieee.org/author/37085463419)
-
 
 
 * <img src="https://img.shields.io/badge/B.Eng-2018/09--2022/06-blue?style=flat-square"> B.Eng. in Mechanical Design, Manufacturing and Automation, [Southwest Jiaotong University](https://en.swjtu.edu.cn/)
