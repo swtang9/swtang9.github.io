@@ -1,4 +1,4 @@
-# 📢 News
+# 🔥 News
 
 
 * <img src="https://img.shields.io/badge/Edu-2025/05/21-blue?style=flat-square">  After a long wait, I finally got my study VISA! See you in LA soon!
