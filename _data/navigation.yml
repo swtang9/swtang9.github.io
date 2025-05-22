@@ -1,7 +1,12 @@
 # main links links
+
+# navigation.yml的title和具体页面的title一定要一致
 main:
   - title: "About Me"
     url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
 
   - title: "Education"
     url: "/#-education"
@@ -11,9 +16,6 @@ main:
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
-
-  - title: "News"
-    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
