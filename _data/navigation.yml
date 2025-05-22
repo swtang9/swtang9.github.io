@@ -6,6 +6,9 @@ main:
   - title: "Education"
     url: "/#-education"
 
+  - title: "Professional Experience"
+    url: "/#-Professional Experience"
+
   - title: "News"
     url: "/#-news"
 
