@@ -1,12 +1,13 @@
 # 📢 News
 
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/05/21</span> **[Education]** I successfully got my study VISA! See you in LA soon!
 
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/02/20</span> **[Education]** I've received a fully-funded PhD offer from the University of Southern California (USC)! This marks one of the most significant milestones in my life!
+* <img src="https://img.shields.io/badge/Edu-2025/05/21-blue?style=flat-square">  After a long wait, I finally got my study VISA! See you in LA soon!
 
-* <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2025/01/09</span> **[Publication]** Our work on Pump-Valve Pneumatic Actuation System for Soft Robots has been accepted by the journal **_RA-L_**! It’s a great start to 2025!
+* <img src="https://img.shields.io/badge/Edu-2025/05/08-blue?style=flat-square"> I successfully defended my Master’s thesis! I’m deeply grateful for everyone’s support throughout this journey!
 
+* <img src="https://img.shields.io/badge/Edu-2025/02/20-blue?style=flat-square"> I've received a fully-funded PhD offer from the University of Southern California (USC)! This marks one of the most significant milestones in my life!
 
+* <span> <img src="https://img.shields.io/badge/Pub-2025/01/09-blue?style=flat-square">  Our work on Pump-Valve Pneumatic Actuation System for Soft Robots has been accepted by the journal **_RA-L_**! It’s a great start to 2025!
 
 <!-- 2024
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/11/18</span> **[Publication]** Our work on Muscle-Inspired Multifunctional Actuators has been accepted by the journal **_Adv. Sci._**!
