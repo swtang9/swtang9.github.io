@@ -870,10 +870,13 @@
 
 .#{$fa-css-prefix}.#{$fa-css-prefix}-mortar-board:before { content: fa-content($fa-var-graduation-cap); }
 
-.#{$fa-css-prefix}.#{$fa-css-prefix}-mortar-board:before { content: fa-content($fa-var-person-running); }
-
 .#{$fa-css-prefix}.#{$fa-css-prefix}-yahoo {
   font-family: 'Font Awesome 5 Brands';
+  font-weight: 400;
+}
+
+.#{$fa-css-prefix}.#{$fa-css-prefix}-person-running {
+  font-family: 'Font Awesome 6 Brands';
   font-weight: 400;
 }
 
