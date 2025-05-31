@@ -118,7 +118,7 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% if author.running %}
-        <li><a href="{{ author.running }}"><i class="fab fa-fw fa-person-running" aria-hidden="true"></i> Running</a></li>
+        <li><a href="{{ author.running }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Running</a></li>
       {% endif %}
 {% endif %}
     </ul>
@@ -217,7 +217,7 @@
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.running %}
-        <a href="{{ author.running }}"><i class="fab fa-fw fa-person-running" aria-hidden="true"></i></a>
+        <a href="{{ author.running }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
       {% endif %}
     </div>
   </div>
