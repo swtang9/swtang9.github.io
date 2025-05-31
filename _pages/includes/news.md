@@ -1,7 +1,7 @@
 # 🔥 News
 
 
-* <img src="https://img.shields.io/badge/Edu-2025/05/08-blue?style=flat-square"> I successfully defended my Master’s thesis! I’m deeply grateful for everyone’s support throughout this journey!
+* <img src="https://img.shields.io/badge/Edu-2025/05/08-blue?style=flat-square"> I successfully defended my Master’s thesis! I’m deeply grateful for everyone’s support throughout these past 3 years!
 
 * <img src="https://img.shields.io/badge/Exp-2025/03/20-blue?style=flat-square"> As one of the original members, I joined the [BFI Lab](https://bfilab.com/) at [SZTU](https://english.sztu.edu.cn/) and participated in its initial construction!
 
@@ -21,6 +21,10 @@
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/06/01</span> **[Publication]** Our work on 3D-Printed Flexible Optical Waveguide Sensors for Proprioception in Soft Robots has been accepted by the journal **_RA-L_**!
 
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/05/26</span> **[Publication]** Our work on Flow Regulation Control Systems for Soft Robots has been accepted by the journal **_RA-L_**! -->
+
+
+<!-- Shaowu Tang 的 News -->
+
 
 
 
