@@ -1,13 +1,11 @@
 # 🔥 News
 
 
-* <img src="https://img.shields.io/badge/Edu-2025/05/21-blue?style=flat-square">  After a long wait, I finally got my study VISA! See you in LA soon!
-
 * <img src="https://img.shields.io/badge/Edu-2025/05/08-blue?style=flat-square"> I successfully defended my Master’s thesis! I’m deeply grateful for everyone’s support throughout this journey!
 
 * <img src="https://img.shields.io/badge/Exp-2025/03/20-blue?style=flat-square"> As one of the original members, I joined the [BFI Lab](https://bfilab.com/) at [SZTU](https://english.sztu.edu.cn/) and participated in its initial construction!
 
-* <img src="https://img.shields.io/badge/Edu-2025/02/20-blue?style=flat-square"> I've received a fully-funded PhD offer from the University of Southern California (USC)! This marks one of the most significant milestones in my life!
+* <img src="https://img.shields.io/badge/Edu-2025/02/20-blue?style=flat-square"> I've received a fully-funded PhD offer from the University of Southern California (USC)! This marks one of the most significant milestones in my life! See you in LA!
 
 * <span> <img src="https://img.shields.io/badge/Pub-2025/01/09-blue?style=flat-square">  Our work on Pump-Valve Pneumatic Actuation System for Soft Robots has been accepted by the journal **_RA-L_**! It’s a great start to 2025!
 
