@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  running          : "https://shaowutang.com/running_page/"
+  running          : "https://shaowutang.com/workouts_page/"
   blog             : "https://shaowutang.com/blog/"
   #要增加图标参考running，在_config.yml, icons.scss,variables.scss文件中进行设置即可
 
