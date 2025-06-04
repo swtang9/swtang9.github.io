@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Shaowu Tang"
   avatar           : "images/profile.png"
-  bio              : "Incoming Ph.D. student @ USC" 
+  bio              : "Research Assistant @ SZTU" 
   location         : "Shenzhen, China"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=VWjcoy0AAAAJ"
   email            : "tangsw2022@mail.sustech.edu.cn"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : https://github.com/swtang9
   google_plus      :
   keybase          :
   instagram        :
