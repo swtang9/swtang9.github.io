@@ -37,7 +37,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/swtang9
   google_plus      :
   keybase          :
   instagram        :
@@ -57,6 +56,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  github           : swtang9
   running          : "https://shaowutang.com/workouts_page/"
   blog             : "https://shaowutang.com/blog/"
   #要增加图标参考running，在_config.yml, icons.scss,variables.scss文件中进行设置即可
