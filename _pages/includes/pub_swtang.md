@@ -12,8 +12,13 @@
      <br>
      Sicong Liu†, Lin Wang†, Zhongfeng Qian†, Dihan Liu, Wenpei Zhu, <b><u>Shaowu Tang</u></b>, Xuda Zhao, Wenjian Yang, Ying Lu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i>
-    </span>
-    </p>
+    <!-- <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="/images/profile.png" alt="图1" style="height: 120px;">
+        <img src="/images/papers/fig2.jpg" alt="图2" style="height: 120px;">
+        <img src="/images/papers/fig3.jpg" alt="图3" style="height: 120px;">
+  </div> -->
+</span>
+</p>
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[6] <span> <img src="https://img.shields.io/badge/Adv. Sci.-2025-blue?style=flat-square"> </span> 
@@ -24,8 +29,8 @@
      <br>
      Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Yinyin Su, Xiaohuang Liu, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
     <i>Advanced Science</i>
-    </span>
-    </p>
+</span>
+</p>
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[5] <span> <img src="https://img.shields.io/badge/RA--L-2024-blue?style=flat-square"> </span> 
