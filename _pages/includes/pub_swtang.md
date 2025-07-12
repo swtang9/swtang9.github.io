@@ -5,17 +5,16 @@
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[7] <span> <img src="https://img.shields.io/badge/RA--L-2025-blue?style=flat-square"> </span> 
-    Single Pump-Valve Pneumatic Actuation With Continuous Flow Rate Control for Soft Robots.
+    <b>Single Pump-Valve Pneumatic Actuation With Continuous Flow Rate Control for Soft Robots.</b>
     [<a href="https://ieeexplore.ieee.org/abstract/document/10844342" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2025a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/RAL2025a_video.mp4" target="_blank">Video</a>]
      <br>
      Sicong Liu†, Lin Wang†, Zhongfeng Qian†, Dihan Liu, Wenpei Zhu, <b><u>Shaowu Tang</u></b>, Xuda Zhao, Wenjian Yang, Ying Lu, Juan Yi, Jian S. Dai, Zheng Wang <br>
-    <i>IEEE Robotics and Automation Letters</i>
+    <i>IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2399-2406</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="files\paper_images\RAL2024a.png" alt="图1" style="height: 120px;">
-        <img src="files\paper_images\RAL2024a.png" alt="图2" style="height: 120px;">
-        <img src="files\paper_images\RAL2024a.png" alt="图3" style="height: 120px;">
+        <img src="files\paper_images\RAL2024a.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_images\RAL2024a.png" alt="fig2" style="height: 150px;">
   </div>
 </span>
 </p>
