@@ -13,8 +13,8 @@
      Sicong Liu†, Lin Wang†, Zhongfeng Qian†, Dihan Liu, Wenpei Zhu, <b><u>Shaowu Tang</u></b>, Xuda Zhao, Wenjian Yang, Ying Lu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2399-2406</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="files\paper_images\RAL2024a.png" alt="fig1" style="height: 150px;">
-        <img src="files\paper_images\RAL2024a.png" alt="fig2" style="height: 150px;">
+        <img src="files\paper_pdf\fig\RAL2024a.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_pdf\fig\RAL2024a.png" alt="fig2" style="height: 150px;">
   </div>
 </span>
 </p>
@@ -29,8 +29,8 @@
      Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Yinyin Su, Xiaohuang Liu, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
     <i>Advanced Science</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="files\paper_images\AS2024a-1.png" alt="fig1" style="height: 150px;">
-        <img src="files\paper_images\AS2024a-2.png" alt="fig2" style="height: 150px;">
+        <img src="files\paper_pdf\fig\AS2024a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_pdf\fig\AS2024a-2.png" alt="fig2" style="height: 150px;">
   </div>
 </span>
 </p>
@@ -45,8 +45,8 @@
      <b><u>Shaowu Tang</u></b>, Kailuan Tang, Yutao Guo,  Shijian Wu, Jiahao Xu, Benkang Lou, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="files\paper_images\RAL2024b-1.png" alt="fig1" style="height: 150px;">
-        <img src="files\paper_images\RAL2024b-2.png" alt="fig2" style="height: 150px;">
+        <img src="files\paper_pdf\fig\RAL2024b-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_pdf\fig\RAL2024b-2.png" alt="fig2" style="height: 150px;">
     </div> 
     </span>
     </p>
@@ -59,8 +59,8 @@
     Kailuan Tang, <b><u>Shaowu Tang</u></b>, Chenghua Lu, Shijian Wu, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i> 
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="files\paper_images\RAL2024c-1.png" alt="fig1" style="height: 150px;">
-        <img src="files\paper_images\RAL2024c-2.png" alt="fig2" style="height: 150px;">
+        <img src="files\paper_pdf\fig\RAL2024c-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_pdf\fig\RAL2024c-2.png" alt="fig2" style="height: 150px;">
     </div>
     </span>
     </p>
@@ -75,8 +75,8 @@
     Shijian Wu, Kailuan Tang, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i> 
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="files\paper_images\RAL2024a-1.png" alt="fig1" style="height: 150px;">
-        <img src="files\paper_images\RAL2024a-2.png" alt="fig2" style="height: 150px;">
+        <img src="files\paper_pdf\fig\RAL2024a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_pdf\fig\RAL2024a-2.png" alt="fig2" style="height: 150px;">
   </div>
     </span>
     </p>
@@ -90,8 +90,8 @@
     <b><u>Shaowu Tang</u></b>†, Kailuan Tang†, Shijian Wu, Yin Xiao, Sicong Liu, Juan Yi, Zheng Wang <br>
     <i>Frontiers in Robotics and AI</i> 
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="files\paper_images\Frontiers2023a-1.png" alt="fig1" style="height: 150px;">
-        <img src="files\paper_images\Frontiers2023a-2.png" alt="fig2" style="height: 150px;">
+        <img src="files\paper_pdf\fig\Frontiers2023a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_pdf\fig\Frontiers2023a-2.png" alt="fig2" style="height: 150px;">
     </div>
     </span>
     </p>
@@ -107,8 +107,8 @@
     Kailuan Tang, Chenghua Lu, Yishan Chen, Yin Xiao, Shijian Wu, <b><u>Shaowu Tang</u></b>, Hexiang Wang, Binbin Zhang, Zhong Shen, Juan Yi, Sicong Liu, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="files\paper_images\RAL2023a-1.png" alt="fig1" style="height: 150px;">
-        <img src="files\paper_images\RAL2023a-2.png" alt="fig2" style="height: 150px;">
+        <img src="files\paper_pdf\fig\RAL2023a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_pdf\fig\RAL2023a-2.png" alt="fig2" style="height: 150px;">
   </div> 
     </span>
     </p>
@@ -128,8 +128,8 @@
     <i>The 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR), Chicago, USA </i> <br>
     <i><b>Best Paper Award</b></i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="files\paper_images\ReMar2024a-1.png" alt="fig1" style="height: 150px;">
-        <img src="files\paper_images\ReMar2024a-2.png" alt="fig2" style="height: 150px;">
+        <img src="files\paper_pdf\fig\ReMar2024a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_pdf\fig\ReMar2024a-2.png" alt="fig2" style="height: 150px;">
     </div>
     </span>
 </p>
@@ -144,8 +144,8 @@
     Xiaohuang Liu, Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Fang Chen, Sicong Liu, Hongqiang Wang, Zheng Wang, Jian S. Dai <br>
     <i>The 17th International Conference on Intelligent Robotics and Applications (ICIRA), Xi'an China</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="files\paper_images\ICIRA2024a-1.png" alt="fig1" style="height: 150px;">
-        <img src="files\paper_images\ICIRA2024a-2.png" alt="fig2" style="height: 150px;">
+        <img src="files\paper_pdf\fig\ICIRA2024a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_pdf\fig\ICIRA2024a-2.png" alt="fig2" style="height: 150px;">
   </div>
     </span>
     </p>
