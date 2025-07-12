@@ -5,7 +5,7 @@
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[7] <span> <img src="https://img.shields.io/badge/RA--L-2025-blue?style=flat-square"> </span> 
-    <b>Single Pump-Valve Pneumatic Actuation With Continuous Flow Rate Control for Soft Robots.</b>
+    Single Pump-Valve Pneumatic Actuation With Continuous Flow Rate Control for Soft Robots.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10844342" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2025a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/RAL2025a_video.mp4" target="_blank">Video</a>]
@@ -28,6 +28,10 @@
      <br>
      Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Yinyin Su, Xiaohuang Liu, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
     <i>Advanced Science</i>
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="files\paper_images\AS2024a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_images\AS2024a-2.png" alt="fig2" style="height: 150px;">
+  </div>
 </span>
 </p>
 
@@ -39,7 +43,11 @@
     [<a href="/files/paper_video/RAL2024b_video.mp4" target="_blank">Video</a>]
      <br>
      <b><u>Shaowu Tang</u></b>, Kailuan Tang, Yutao Guo,  Shijian Wu, Jiahao Xu, Benkang Lou, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
-    <i>IEEE Robotics and Automation Letters</i> 
+    <i>IEEE Robotics and Automation Letters</i>
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="files\paper_images\RAL2024b-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_images\RAL2024b-2.png" alt="fig2" style="height: 150px;">
+    </div> 
     </span>
     </p>
 
@@ -50,6 +58,10 @@
     [<a href="/files/paper_pdf/RAL2024c.pdf" target="_blank">PDF</a>] <br>
     Kailuan Tang, <b><u>Shaowu Tang</u></b>, Chenghua Lu, Shijian Wu, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i> 
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="files\paper_images\RAL2024c-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_images\RAL2024c-2.png" alt="fig2" style="height: 150px;">
+    </div>
     </span>
     </p>
 
@@ -62,6 +74,10 @@
     <br>
     Shijian Wu, Kailuan Tang, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i> 
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="files\paper_images\RAL2024a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_images\RAL2024a-2.png" alt="fig2" style="height: 150px;">
+  </div>
     </span>
     </p>
 
@@ -73,6 +89,10 @@
     <br>
     <b><u>Shaowu Tang</u></b>†, Kailuan Tang†, Shijian Wu, Yin Xiao, Sicong Liu, Juan Yi, Zheng Wang <br>
     <i>Frontiers in Robotics and AI</i> 
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="files\paper_images\Frontiers2023a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_images\Frontiers2023a-2.png" alt="fig2" style="height: 150px;">
+    </div>
     </span>
     </p>
 
@@ -85,7 +105,11 @@
     [<a href="/files/paper_video/RAL2023a_video.mp4" target="_blank">Video</a>]
     <a class='paper_citations_badges' data='mhpkWSYAAAAJ:roLk4NBRz8UC' href="" target="_blank"></a> <br>
     Kailuan Tang, Chenghua Lu, Yishan Chen, Yin Xiao, Shijian Wu, <b><u>Shaowu Tang</u></b>, Hexiang Wang, Binbin Zhang, Zhong Shen, Juan Yi, Sicong Liu, Zheng Wang <br>
-    <i>IEEE Robotics and Automation Letters</i> 
+    <i>IEEE Robotics and Automation Letters</i>
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="files\paper_images\RAL2023a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_images\RAL2023a-2.png" alt="fig2" style="height: 150px;">
+  </div> 
     </span>
     </p>
 
@@ -103,6 +127,10 @@
     Yige Wu, Xiaohuang Liu, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi, Zheng Wang, Jian S. Dai <br>
     <i>The 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR), Chicago, USA </i> <br>
     <i><b>Best Paper Award</b></i>
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="files\paper_images\ReMar2024a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_images\ReMar2024a-2.png" alt="fig2" style="height: 150px;">
+    </div>
     </span>
 </p>
 
@@ -115,6 +143,10 @@
     <br>
     Xiaohuang Liu, Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Fang Chen, Sicong Liu, Hongqiang Wang, Zheng Wang, Jian S. Dai <br>
     <i>The 17th International Conference on Intelligent Robotics and Applications (ICIRA), Xi'an China</i>
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="files\paper_images\ICIRA2024a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_images\ICIRA2024a-2.png" alt="fig2" style="height: 150px;">
+  </div>
     </span>
     </p>
 
