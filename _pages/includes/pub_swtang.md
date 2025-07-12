@@ -12,11 +12,11 @@
      <br>
      Sicong Liu†, Lin Wang†, Zhongfeng Qian†, Dihan Liu, Wenpei Zhu, <b><u>Shaowu Tang</u></b>, Xuda Zhao, Wenjian Yang, Ying Lu, Juan Yi, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters</i>
-    <!-- <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="/images/profile.png" alt="图1" style="height: 120px;">
-        <img src="/images/papers/fig2.jpg" alt="图2" style="height: 120px;">
-        <img src="/images/papers/fig3.jpg" alt="图3" style="height: 120px;">
-  </div> -->
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="files\paper_images\RAL2024a.png" alt="图1" style="height: 120px;">
+        <img src="files\paper_images\RAL2024a.png" alt="图2" style="height: 120px;">
+        <img src="files\paper_images\RAL2024a.png" alt="图3" style="height: 120px;">
+  </div>
 </span>
 </p>
 
