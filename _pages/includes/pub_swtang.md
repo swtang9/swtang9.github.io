@@ -1,5 +1,5 @@
 # 📝 Publications
-†: Equal contribution, ✉: Corresponding author 
+†: Equal contribution, *: Corresponding author 
 
 ## Journal Articals
 
@@ -10,7 +10,7 @@
     [<a href="/files/paper_pdf/RAL2025a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/RAL2025a_video.mp4" target="_blank">Video</a>]
      <br>
-     Sicong Liu†, Lin Wang†, Zhongfeng Qian†, Dihan Liu, Wenpei Zhu, <b><u>Shaowu Tang</u></b>, Xuda Zhao, Wenjian Yang, Ying Lu, Juan Yi, Jian S. Dai✉, Zheng Wang✉ <br>
+     Sicong Liu†, Lin Wang†, Zhongfeng Qian†, Dihan Liu, Wenpei Zhu, <b><u>Shaowu Tang</u></b>, Xuda Zhao, Wenjian Yang, Ying Lu, Juan Yi, Jian S. Dai*, Zheng Wang* <br>
     <i>IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2399-2406.</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
         <img src="files\paper_pdf\fig\RAL2025a-1.png" alt="fig1" style="height: 150px;">
@@ -26,7 +26,7 @@
     [<a href="/files/paper_pdf/AS2024a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/AS2024a_video.mp4" target="_blank">Video</a>]
      <br>
-     Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Yinyin Su, Xiaohuang Liu, Sicong Liu✉, Juan Yi, Zheng Wang, Jian S. Dai✉ <br>
+     Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Yinyin Su, Xiaohuang Liu, Sicong Liu*, Juan Yi, Zheng Wang, Jian S. Dai* <br>
     <i>Advanced Science, 2025, 12(3): 2409060.</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
         <img src="files\paper_pdf\fig\AS2024a-1.png" alt="fig1" style="height: 150px;">
@@ -42,7 +42,7 @@
     [<a href="/files/paper_pdf/RAL2024b.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/RAL2024b_video.mp4" target="_blank">Video</a>]
      <br>
-     <b><u>Shaowu Tang</u></b>, Kailuan Tang, Yutao Guo,  Shijian Wu, Jiahao Xu, Benkang Lou, Sicong Liu, Juan Yi✉, Jian S. Dai, Zheng Wang <br>
+     <b><u>Shaowu Tang</u></b>, Kailuan Tang, Yutao Guo,  Shijian Wu, Jiahao Xu, Benkang Lou, Sicong Liu, Juan Yi*, Jian S. Dai, Zheng Wang <br>
     <i>IEEE Robotics and Automation Letters, vol. 9, no. 8, pp. 6975-6982.</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
         <img src="files\paper_pdf\fig\RAL2024b-1.png" alt="fig1" style="height: 150px;">
@@ -56,7 +56,7 @@
     Learning Based Exteroception of Soft Underwater Manipulator with Soft Actuator Network. 
     [<a href="https://ieeexplore.ieee.org/abstract/document/10737404" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2024c.pdf" target="_blank">PDF</a>] <br>
-    Kailuan Tang, <b><u>Shaowu Tang</u></b>, Chenghua Lu, Shijian Wu, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang✉ <br>
+    Kailuan Tang, <b><u>Shaowu Tang</u></b>, Chenghua Lu, Shijian Wu, Sicong Liu, Juan Yi, Jian S. Dai, Zheng Wang* <br>
     <i>IEEE Robotics and Automation Letters, vol. 9, no. 12, pp. 11082-11089.</i> 
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
         <img src="files\paper_pdf\fig\RAL2024c-1.png" alt="fig1" style="height: 150px;">
@@ -72,7 +72,7 @@
     [<a href="/files/paper_pdf/RAL2024a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/RAL2024a_video.mp4" target="_blank">Video</a>]
     <br>
-    Shijian Wu, Kailuan Tang, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi✉, Jian S. Dai, Zheng Wang✉ <br>
+    Shijian Wu, Kailuan Tang, <b><u>Shaowu Tang</u></b>, Sicong Liu, Juan Yi*, Jian S. Dai, Zheng Wang* <br>
     <i>IEEE Robotics and Automation Letters, vol. 9, no. 8, pp. 6967-6974.</i> 
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
         <img src="files\paper_pdf\fig\RAL2024a-1.png" alt="fig1" style="height: 150px;">
@@ -87,7 +87,7 @@
     [<a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1210217/full" target="_blank">Link</a>] 
     [<a href="/files/paper_pdf/Frontiers2023a.pdf" target="_blank">PDF</a>]
     <br>
-    <b><u>Shaowu Tang</u></b>†, Kailuan Tang†, Shijian Wu, Yin Xiao, Sicong Liu, Juan Yi✉, Zheng Wang✉ <br>
+    <b><u>Shaowu Tang</u></b>†, Kailuan Tang†, Shijian Wu, Yin Xiao, Sicong Liu, Juan Yi*, Zheng Wang* <br>
     <i>Frontiers in Robotics and AI, 2023, 10: 1210217.</i> 
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
         <img src="files\paper_pdf\fig\Frontiers2023a-1.png" alt="fig1" style="height: 150px;">
@@ -104,7 +104,7 @@
     <!-- [<a href="/files/paper_slide/ral2023a_icra.pdf" target="_blank">Slide</a>] -->
     [<a href="/files/paper_video/RAL2023a_video.mp4" target="_blank">Video</a>]
     <a class='paper_citations_badges' data='mhpkWSYAAAAJ:roLk4NBRz8UC' href="" target="_blank"></a> <br>
-    Kailuan Tang, Chenghua Lu, Yishan Chen, Yin Xiao, Shijian Wu, <b><u>Shaowu Tang</u></b>, Hexiang Wang, Binbin Zhang, Zhong Shen, Juan Yi, Sicong Liu, Zheng Wang✉ <br>
+    Kailuan Tang, Chenghua Lu, Yishan Chen, Yin Xiao, Shijian Wu, <b><u>Shaowu Tang</u></b>, Hexiang Wang, Binbin Zhang, Zhong Shen, Juan Yi, Sicong Liu, Zheng Wang* <br>
     <i>IEEE Robotics and Automation Letters, vol. 9, no. 8, pp. 6967-6974.</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
         <img src="files\paper_pdf\fig\RAL2023a-1.png" alt="fig1" style="height: 150px;">
@@ -124,7 +124,7 @@
     <!-- [<a href="/files/paper_slide/ReMar2024a.pdf" target="_blank">Slide</a>] -->
     [<a href="/files/paper_video/ReMar2024a_video.mp4" target="_blank">Video</a>] 
     <br>
-    Yige Wu, Xiaohuang Liu, <b><u>Shaowu Tang</u></b>, Sicong Liu✉, Juan Yi, Zheng Wang, Jian S. Dai✉ <br>
+    Yige Wu, Xiaohuang Liu, <b><u>Shaowu Tang</u></b>, Sicong Liu*, Juan Yi, Zheng Wang, Jian S. Dai* <br>
     <i>The 6th International Conference on Reconfigurable Mechanisms and Robots (ReMAR), Chicago, IL, USA, 2024, pp. 601-607. </i> <br>
     <i><b>Best Paper Award</b></i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
@@ -141,7 +141,7 @@
     [<a href="/files/paper_pdf/ICIRA2024a.pdf" target="_blank">PDF</a>]
     <!-- [<a href="/files/paper_slide/ICIRA2024a_slides.pdf" target="_blank">Slide</a>]  -->
     <br>
-    Xiaohuang Liu, Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Fang Chen, Sicong Liu✉, Hongqiang Wang, Zheng Wang, Jian S. Dai✉ <br>
+    Xiaohuang Liu, Zhonggui Fang, <b><u>Shaowu Tang</u></b>, Fang Chen, Sicong Liu*, Hongqiang Wang, Zheng Wang, Jian S. Dai* <br>
     <i>The 17th International Conference on Intelligent Robotics and Applications (ICIRA), Xi'an China</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
         <img src="files\paper_pdf\fig\ICIRA2024a-1.png" alt="fig1" style="height: 150px;">
@@ -156,7 +156,7 @@
     [<a href="https://www.techscience.com/icces/v30n3/58566" target="_blank">Link</a>]
     [<a href="/files/paper_slide/ICCES2024a.pdf" target="_blank">Slides</a>]
     <br>
-    <b><u>Shaowu Tang</u></b>, Sicong Liu✉, Jian S. Dai✉ <br>
+    <b><u>Shaowu Tang</u></b>, Sicong Liu*, Jian S. Dai* <br>
     <i>The 30th International Conference on Computational & Experimental Engineering and Sciences (ICCES), Singapore</i>
     </span>
     </p>
