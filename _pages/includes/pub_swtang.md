@@ -19,6 +19,21 @@
 </p>
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
+    <span>[8] <span> <img src="https://www-sciencedirect-com.libproxy2.usc.edu/science/article/pii/S0263823125012753"> </span> 
+    A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse.
+    [<a href="https://www-sciencedirect-com.libproxy2.usc.edu/science/article/pii/S0094114X25003295" target="_blank">Link</a>]
+    [<a href="/files/paper_pdf/MMT2025a.pdf" target="_blank">PDF</a>]
+     <br>
+     Yige Wu, Nan Huang, <b><u>Shaowu Tang</u></b>,  Xiaohuang Liu, Xianxu Li, Sicong Liu*, Juan Yi, Zheng Wang,  Jian S. Dai* <br>
+    <i>Mechanism and Machine Theory, 2025, 217: 106240.</i>
+    <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+        <img src="files\paper_pdf\fig\MMT2025a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_pdf\fig\MMT2025a-2.png" alt="fig2" style="height: 150px;">
+  </div>
+</span>
+</p>
+
+<p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[7] <span> <img src="https://img.shields.io/badge/RA--L-2025-blue?style=flat-square"> </span> 
     Single Pump-Valve Pneumatic Actuation With Continuous Flow Rate Control for Soft Robots.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10844342" target="_blank">Link</a>]
