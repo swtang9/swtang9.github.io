@@ -4,17 +4,16 @@
 ## Journal Articals
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
-    <span>[8] <span> <img src="https://img.shields.io/badge/TWS-2025-blue?style=flat-square"> </span> 
+    <span>[9] <span> <img src="https://www-sciencedirect-com.libproxy2.usc.edu/science/article/pii/S0263823125012753"> </span> 
     Bidirectional payload enhancement of soft actuator via nested dual-chamber origami structure.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10844342" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/TWS2025a.pdf" target="_blank">PDF</a>]
-    [<a href="/files/paper_video/RAL2025a_video.mp4" target="_blank">Video</a>]
      <br>
      Xiaohuang Liu, Zhonggui Fang, <b><u>Shaowu Tang</u></b>,  Fang Chen, Dihan Liu, Sicong Liu*, Juan Yi, Hongqiang Wang, Zheng Wang,  Jian S. Dai* <br>
-    <i>IEEE Robotics and Automation Letters, vol. 10, no. 3, pp. 2399-2406.</i>
+    <i>Thin-Walled Structures, 2025: 114187.</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="files\paper_pdf\fig\RAL2025a-1.png" alt="fig1" style="height: 150px;">
-        <img src="files\paper_pdf\fig\RAL2025a-2.png" alt="fig2" style="height: 150px;">
+        <img src="files\paper_pdf\fig\TWS2025a-1.png" alt="fig1" style="height: 150px;">
+        <img src="files\paper_pdf\fig\TWS2025a-2.png" alt="fig2" style="height: 150px;">
   </div>
 </span>
 </p>
