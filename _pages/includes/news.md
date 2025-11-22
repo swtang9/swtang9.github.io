@@ -1,6 +1,8 @@
 # 🔥 News
 
 
+<span> <img src="https://img.shields.io/badge/Pub-11/20/2025-blue?style=flat-square">  To of our works have been accepted by the journal **_MMT_** and **_TWS_**!
+
 <img src="https://img.shields.io/badge/Edu-05/08/2025-blue?style=flat-square"> I successfully defended my Master’s thesis! I’m deeply grateful for everyone’s support throughout these past 3 years!
 
 <img src="https://img.shields.io/badge/Exp-03/20/2025-blue?style=flat-square"> As one of the original members, I joined the [BFI Lab](https://bfilab.com/) at [SZTU](https://english.sztu.edu.cn/) and participated in its initial construction!
