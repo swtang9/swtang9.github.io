@@ -22,7 +22,7 @@
     <span>[8] <span> <img src="https://img.shields.io/badge/MMT-2025-blue?style=flat-square"> </span> 
     A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse.
     [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0094114X25003295" target="_blank">Link</a>]
-    [<a href="/files/paper_pdf/MMT2025b.pdf" target="_blank">PDF</a>]
+    [<a href="/files/paper_pdf/MMT2025a.pdf" target="_blank">PDF</a>]
      <br>
      Yige Wu, Nan Huang, <b><u>Shaowu Tang</u></b>,  Xiaohuang Liu, Xianxu Li, Sicong Liu*, Juan Yi, Zheng Wang,  Jian S. Dai* <br>
     <i>Mechanism and Machine Theory, 2025, 217: 106240.</i>
