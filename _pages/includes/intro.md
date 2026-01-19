@@ -6,7 +6,7 @@
 
 Previously, I obtained my M.Eng. degree from Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)) in June 2025. During my master's studies, I was advised by Prof. [Jian S. Dai](https://sustech.edu.cn/en/faculties/daijiansheng.html) and Prof. [Zheng Wang](https://ieeexplore.ieee.org/author/37085463419), while also maintaining a close collaboration with Prof. [Sicong Liu](https://sgim.sztu.edu.cn/info/1161/3862.htm) and Prof. [Juan Yi](https://www.gbu.edu.cn/detail/article/1395).
 
-. degree from the [Mao Yisheng Honors College](https://mys.swjtu.edu.cn/en/HOME.htm), Southwest Jiaotong University ([SWJTU](https://en.swjtu.edu.cn/)) in June 2022.
+Prior to that, I received my B.Eng. degree from the [Mao Yisheng Honors College](https://mys.swjtu.edu.cn/en/HOME.htm), Southwest Jiaotong University ([SWJTU](https://en.swjtu.edu.cn/)) in June 2022.
 
 Please feel free to contact me at shaowuta@usc.edu
 
