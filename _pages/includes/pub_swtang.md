@@ -145,8 +145,6 @@
 
 ## Conference Papers
 
-
-
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[3] <span> <img src="https://img.shields.io/badge/ReMAR-2024-blue?style=flat-square"> </span> A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10619986/" target="_blank">Link</a>]
@@ -163,7 +161,6 @@
     </div>
     </span>
 </p>
-
 
 <p style="text-indent: -1.6rem;margin-left: 1.6rem;">
     <span>[2] <span> <img src="https://img.shields.io/badge/ICIRA-2024-blue?style=flat-square"> </span> Nested Dual-cavity Origami Enhancing Payload via Collaboration of Positive and Negative Pressure Actuation for Soft Actuator.
