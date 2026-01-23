@@ -129,12 +129,12 @@
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
     <span>[1] <span> <img src="https://img.shields.io/badge/RA--L-2023-blue?style=flat-square"> </span> 
     A Strong Underwater Soft Manipulator with Planarly-bundled Actuators and Accurate Position Control.
-    [<a href="https://ieeexplore.ieee.org/abstract/document/10564155" target="_blank">Link</a>]
+    [<a href="https://ieeexplore-ieee-org.libproxy2.usc.edu/document/10265136" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2023a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/RAL2023a_video.mp4" target="_blank">Video</a>]
     <a class='paper_citations_badges' data='mhpkWSYAAAAJ:roLk4NBRz8UC' href="" target="_blank"></a> <br>
     Kailuan Tang, Chenghua Lu, Yishan Chen, Yin Xiao, Shijian Wu, <b><u>Shaowu Tang</u></b>, Hexiang Wang, Binbin Zhang, Zhong Shen, Juan Yi, Sicong Liu, Zheng Wang* <br>
-    <i>IEEE Robotics and Automation Letters, vol. 9, no. 8, pp. 6967-6974.</i>
+    <i>IEEE Robotics and Automation Letters, vol. 8, no. 11, pp. 7559-7566.</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
         <img src="files\paper_pdf\fig\RAL2023a-1.png" alt="fig1" style="height: 150px;">
         <img src="files\paper_pdf\fig\RAL2023a-2.png" alt="fig2" style="height: 150px;">

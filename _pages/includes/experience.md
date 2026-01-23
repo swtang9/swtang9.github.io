@@ -1,6 +1,6 @@
 # 💼 Professional Experience
 
-<img src="https://img.shields.io/badge/Research Assistant-03/2025--07/2025-blue?style=flat-square"> Biorobotics and Foldable Intelligence Laboratory ([BFI Lab](https://bfilab.com/)) at [Shenzhen University of Technology](https://english.sztu.edu.cn/)
+<img src="https://img.shields.io/badge/Research Assistant-03/2025--07/2025-blue?style=flat-square"> Biorobotics and Foldable Intelligence Laboratory ([BFI Lab](https://bfilab.com/)) at [Shenzhen Technology University](https://english.sztu.edu.cn/)
 
 * Shenzhen, Guangdong, China
 * Principal Investigator: [Sicong Liu](https://sgim.sztu.edu.cn/info/1161/3862.htm)

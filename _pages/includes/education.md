@@ -1,6 +1,6 @@
 # 👨‍🎓 Education
 
-<img src="https://img.shields.io/badge/Ph.D.-08/2025--now-blue?style=flat-square"> Mechanical Engineering, [University of Southern California](https://www.usc.edu/)
+<img src="https://img.shields.io/badge/Ph.D.-08/2025--Present-blue?style=flat-square"> Mechanical Engineering, [University of Southern California](https://www.usc.edu/)
 
 * Los Angeles, CA, USA
 
