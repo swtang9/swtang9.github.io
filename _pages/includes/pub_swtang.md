@@ -13,8 +13,8 @@
      <b><u>Shaowu Tang</u></b>, Xiaohuang Liu, Zhonggui Fang, Yige Wu, Juan Yi, Zheng Wang, Jian S. Dai, Sicong Liu* <br>
     <i>Soft Robotics, 2026.</i>
     <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-        <img src="files\paper_pdf\fig\SORO2026a-1.png" alt="fig1" style="height: 150px;">
-        <img src="files\paper_pdf\fig\SORO2026a-2.png" alt="fig2" style="height: 150px;">
+        <img src="files\paper_pdf\fig\SORO2026a-1.jpg" alt="fig1" style="height: 150px;">
+        <img src="files\paper_pdf\fig\SORO2026a-2.jpg" alt="fig2" style="height: 150px;">
     </div>
 </span>
 </div>
