@@ -6,7 +6,7 @@
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
     <span>[10] <span> <img src="https://img.shields.io/badge/SoRo-2026-blue?style=flat-square"> </span> 
     Monolithically Printed Pneumatic Proprioceptive Actuator with Integrated Optical Waveguide Using a Single Material.
-    [<a href="https://journals-sagepub-com.libproxy2.usc.edu/doi/10.1177/21695172261420664" target="_blank">Link</a>]
+    [<a href="https://journals-sagepub-com/doi/10.1177/21695172261420664" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/SORO2026a.pdf" target="_blank">PDF</a>]
     [<a href="/files/paper_video/AS2024a_video.mp4" target="_blank">Video</a>]
      <br>
