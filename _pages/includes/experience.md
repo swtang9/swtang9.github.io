@@ -1,4 +1,4 @@
-# 💼 Professional Experience
+# 💼 Experience
 
 <img src="https://img.shields.io/badge/Research Assistant-03/2025--07/2025-blue?style=flat-square"> Biorobotics and Foldable Intelligence Laboratory ([BFI Lab](https://bfilab.com/)) at [Shenzhen Technology University](https://english.sztu.edu.cn/)
 
