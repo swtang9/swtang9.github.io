@@ -35,8 +35,8 @@ main:
   # - title: "Work Experience"
   #   url: "/#-work-experience"
 
-  # - title: "Services"
-  #   url: "/#-services"
+  - title: "Services"
+    url: "/#-services"
 
   - title: "Misc"
     url: "/#-misc"
