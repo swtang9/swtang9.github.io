@@ -11,8 +11,3 @@
 * Principal Investigator: [Zheng Wang](https://ieeexplore.ieee.org/author/37085463419)
 
 
-
-
-
-<!-- * <img src="https://img.shields.io/badge/B.Eng-2018/09--2022/06-blue?style=flat-square"> Mechanical Design, Manufacturing and Automation, [Southwest Jiaotong University](https://en.swjtu.edu.cn/)
-    * Chengdu, Guangdong, China -->

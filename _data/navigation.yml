@@ -19,12 +19,6 @@ main:
 
   - title: "Publications"
     url: "/#-publications"
-    
-  - title: "Services"
-    url: "/#-services"
-
-  - title: "Misc"
-    url: "/#-misc"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
@@ -40,7 +34,11 @@ main:
 
   # - title: "Work Experience"
   #   url: "/#-work-experience"
+  - title: "Services"
+    url: "/#-services"
 
+  - title: "Misc"
+    url: "/#-misc"
 
   # - title: "Projects"
   #   url: /publications/
