@@ -1,17 +1,17 @@
 # 🔥 News
 
 
-<span> <img src="https://img.shields.io/badge/Pub-01/14/2026-blue?style=flat-square"> Our paper on Monolithically 3D-Printed  Proprioceptive Actuators has been accepted by **_Soft Robotics_**! Huge thanks to all co-authors!
+<span> <img src="https://img.shields.io/badge/Pub-01/14/2026-blue?style=flat-square" style="vertical-align: -4px;"> Our paper on Monolithically 3D-Printed  Proprioceptive Actuators has been accepted by **_Soft Robotics_**! Huge thanks to all co-authors!
 
-<!-- <span> <img src="https://img.shields.io/badge/Pub-11/20/2025-blue?style=flat-square"> Two of our works have been accepted by the journals **_MMT_** and **_TWS_**!
+<!-- <span> <img src="https://img.shields.io/badge/Pub-11/20/2025-blue?style=flat-square" style="vertical-align: -4px;"> Two of our works have been accepted by the journals **_MMT_** and **_TWS_**!
 
-<img src="https://img.shields.io/badge/Edu-05/08/2025-blue?style=flat-square"> I successfully defended my Master’s thesis! I’m deeply grateful for everyone’s support over the past 3 years!
+<img src="https://img.shields.io/badge/Edu-05/08/2025-blue?style=flat-square" style="vertical-align: -4px;"> I successfully defended my Master’s thesis! I’m deeply grateful for everyone’s support over the past 3 years!
 
-<img src="https://img.shields.io/badge/Exp-03/20/2025-blue?style=flat-square"> As one of the original members, I joined the [BFI Lab](https://bfilab.com/) at [SZTU](https://english.sztu.edu.cn/) and contributed to its early setup and establishment!
+<img src="https://img.shields.io/badge/Exp-03/20/2025-blue?style=flat-square" style="vertical-align: -4px;"> As one of the original members, I joined the [BFI Lab](https://bfilab.com/) at [SZTU](https://english.sztu.edu.cn/) and contributed to its early setup and establishment!
 
-<img src="https://img.shields.io/badge/Edu-02/20/2025-blue?style=flat-square"> I've received a fully-funded PhD offer from the University of Southern California (USC)! This marks one of the most meaningful milestones in my life! See you in LA!
+<img src="https://img.shields.io/badge/Edu-02/20/2025-blue?style=flat-square" style="vertical-align: -4px;"> I've received a fully-funded PhD offer from the University of Southern California (USC)! This marks one of the most meaningful milestones in my life! See you in LA!
 
-<span> <img src="https://img.shields.io/badge/Pub-01/09/2025-blue?style=flat-square">  Our work on Pump-Valve Pneumatic Actuation System for Soft Robots has been accepted by the journal **_RA-L_**! It’s a great start to 2025! -->
+<span> <img src="https://img.shields.io/badge/Pub-01/09/2025-blue?style=flat-square" style="vertical-align: -4px;">  Our work on Pump-Valve Pneumatic Actuation System for Soft Robots has been accepted by the journal **_RA-L_**! It’s a great start to 2025! -->
 
 <!-- 2024
 * <span style="font-size:12px;color:#FFFFFF;background-color:#007ec6;padding:1px 5px 1.5px 5px;">2024/11/18</span> **[Publication]** Our work on Muscle-Inspired Multifunctional Actuators has been accepted by the journal **_Adv. Sci._**!

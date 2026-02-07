@@ -4,7 +4,7 @@
 ## Journal Articles
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
-    <span>[10] <span> <img src="https://img.shields.io/badge/SoRo-2026-blue?style=flat-square"> </span> 
+    <span>[10] <span> <img src="https://img.shields.io/badge/SoRo-2026-blue?style=flat-square" style="vertical-align: -4px;"> </span> 
     Monolithically Printed Pneumatic Proprioceptive Actuator with Integrated Optical Waveguide Using a Single Material.
     [<a href="https://journals.sagepub.com/doi/10.1177/21695172261420664" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/SORO2026a.pdf" target="_blank">PDF</a>]
@@ -20,7 +20,7 @@
 </div>
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
-    <span>[9] <span> <img src="https://img.shields.io/badge/TWS-2025-blue?style=flat-square"> </span> 
+    <span>[9] <span> <img src="https://img.shields.io/badge/TWS-2025-blue?style=flat-square" style="vertical-align: -4px;"> </span> 
     Bidirectional payload enhancement of soft actuator via nested dual-chamber origami structure.
     [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0263823125012753" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/TWS2025a.pdf" target="_blank">PDF</a>]
@@ -35,7 +35,7 @@
 </div>
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
-    <span>[8] <span> <img src="https://img.shields.io/badge/MMT-2025-blue?style=flat-square"> </span> 
+    <span>[8] <span> <img src="https://img.shields.io/badge/MMT-2025-blue?style=flat-square" style="vertical-align: -4px;"> </span> 
     A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse.
     [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0094114X25003295" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/MMT2025a.pdf" target="_blank">PDF</a>]
@@ -50,7 +50,7 @@
 </div>
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
-    <span>[7] <span> <img src="https://img.shields.io/badge/RA--L-2025-blue?style=flat-square"> </span> 
+    <span>[7] <span> <img src="https://img.shields.io/badge/RA--L-2025-blue?style=flat-square" style="vertical-align: -4px;"> </span> 
     Single Pump-Valve Pneumatic Actuation With Continuous Flow Rate Control for Soft Robots.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10844342" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2025a.pdf" target="_blank">PDF</a>]
@@ -66,7 +66,7 @@
 </div>
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
-    <span>[6] <span> <img src="https://img.shields.io/badge/Adv. Sci.-2025-blue?style=flat-square"> </span> 
+    <span>[6] <span> <img src="https://img.shields.io/badge/Adv. Sci.-2025-blue?style=flat-square" style="vertical-align: -4px;"> </span> 
     3D Printed Multi-Cavity Soft Actuator with Integrated Motion and Sensing Functionalities via Bio-Inspired Interweaving Foldable Endomysium.
     [<a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202409060" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/AS2024a.pdf" target="_blank">PDF</a>]
@@ -82,7 +82,7 @@
 </div>
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
-    <span>[5] <span> <img src="https://img.shields.io/badge/RA--L-2024-blue?style=flat-square"> </span> 
+    <span>[5] <span> <img src="https://img.shields.io/badge/RA--L-2024-blue?style=flat-square" style="vertical-align: -4px;"> </span> 
     Soft Robotic Proprioception Enhancement Via 3D-Printed Differential Optical Waveguide Design. 
     [<a href="https://ieeexplore.ieee.org/document/10564110" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2024b.pdf" target="_blank">PDF</a>]
@@ -98,7 +98,7 @@
 </div>
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
-    <span>[4] <span> <img src="https://img.shields.io/badge/RA--L-2024-blue?style=flat-square"> </span> 
+    <span>[4] <span> <img src="https://img.shields.io/badge/RA--L-2024-blue?style=flat-square" style="vertical-align: -4px;"> </span> 
     Learning Based Exteroception of Soft Underwater Manipulator with Soft Actuator Network. 
     [<a href="https://ieeexplore.ieee.org/abstract/document/10737404" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2024c.pdf" target="_blank">PDF</a>] <br>
@@ -112,7 +112,7 @@
 </div>
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
-    <span>[3] <span> <img src="https://img.shields.io/badge/RA--L-2024-blue?style=flat-square"> </span> 
+    <span>[3] <span> <img src="https://img.shields.io/badge/RA--L-2024-blue?style=flat-square" style="vertical-align: -4px;"> </span> 
     High-Performance Hydraulic Soft Robotic Control Using Continuous Flow Regulation and Partial Feedback.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10564155" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2024a.pdf" target="_blank">PDF</a>]
@@ -128,7 +128,7 @@
 </div>
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
-    <span>[2] <span> <img src="https://img.shields.io/badge/Front Robot Ai.-2023-blue?style=flat-square"> </span> 
+    <span>[2] <span> <img src="https://img.shields.io/badge/Front Robot Ai.-2023-blue?style=flat-square" style="vertical-align: -4px;"> </span> 
     Performance enhancement of the soft robotic segment for a trunk-like arm. 
     [<a href="https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2023.1210217/full" target="_blank">Link</a>] 
     [<a href="/files/paper_pdf/Frontiers2023a.pdf" target="_blank">PDF</a>]
@@ -143,7 +143,7 @@
 </div>
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
-    <span>[1] <span> <img src="https://img.shields.io/badge/RA--L-2023-blue?style=flat-square"> </span> 
+    <span>[1] <span> <img src="https://img.shields.io/badge/RA--L-2023-blue?style=flat-square" style="vertical-align: -4px;"> </span> 
     A Strong Underwater Soft Manipulator with Planarly-bundled Actuators and Accurate Position Control.
     [<a href="https://ieeexplore-ieee-org.libproxy2.usc.edu/document/10265136" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/RAL2023a.pdf" target="_blank">PDF</a>]
@@ -161,7 +161,7 @@
 ## Conference Papers
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
-    <span>[3] <span> <img src="https://img.shields.io/badge/ReMAR-2024-blue?style=flat-square"> </span> A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse.
+    <span>[3] <span> <img src="https://img.shields.io/badge/ReMAR-2024-blue?style=flat-square" style="vertical-align: -4px;"> </span> A Multi-Facet-Effector Soft Robot in Polyhedral Configuration for Multidirectional Function Reuse.
     [<a href="https://ieeexplore.ieee.org/abstract/document/10619986/" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/ReMar2024a.pdf" target="_blank">PDF</a>] 
     [<a href="/files/paper_video/ReMar2024a_video.mp4" target="_blank">Video</a>] 
@@ -177,7 +177,7 @@
 </div>
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
-    <span>[2] <span> <img src="https://img.shields.io/badge/ICIRA-2024-blue?style=flat-square"> </span> Nested Dual-cavity Origami Enhancing Payload via Collaboration of Positive and Negative Pressure Actuation for Soft Actuator.
+    <span>[2] <span> <img src="https://img.shields.io/badge/ICIRA-2024-blue?style=flat-square" style="vertical-align: -4px;"> </span> Nested Dual-cavity Origami Enhancing Payload via Collaboration of Positive and Negative Pressure Actuation for Soft Actuator.
     [<a href="https://link.springer.com/chapter/10.1007/978-981-96-0798-3_22" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/ICIRA2024a.pdf" target="_blank">PDF</a>]
     <br>
@@ -191,7 +191,7 @@
 </div>
 
 <div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 0px;">
-    <span>[1] <span> <img src="https://img.shields.io/badge/ICCES-2024-blue?style=flat-square"> </span>
+    <span>[1] <span> <img src="https://img.shields.io/badge/ICCES-2024-blue?style=flat-square" style="vertical-align: -4px;"> </span>
      Miura-origami Soft Robots with Proprioceptive and Interactive Sensing via Embedded Optical Sensors. <i>(Abstract, Oral)</i> 
     [<a href="https://www.techscience.com/icces/v30n3/58566" target="_blank">Link</a>]
     [<a href="/files/paper_slide/ICCES2024a.pdf" target="_blank">Slides</a>]
