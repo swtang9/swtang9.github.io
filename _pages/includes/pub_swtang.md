@@ -190,7 +190,7 @@
     </span>
 </div>
 
-<div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 40px;">
+<div style="text-indent: -1.6rem; margin-left: 1.6rem; margin-bottom: 0px;">
     <span>[1] <span> <img src="https://img.shields.io/badge/ICCES-2024-blue?style=flat-square"> </span>
      Miura-origami Soft Robots with Proprioceptive and Interactive Sensing via Embedded Optical Sensors. <i>(Abstract, Oral)</i> 
     [<a href="https://www.techscience.com/icces/v30n3/58566" target="_blank">Link</a>]
