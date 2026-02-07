@@ -11,17 +11,8 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Experience"
-    url: "/#-experience"
-
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
-
   - title: "Publications"
     url: "/#-publications"
-
-  # - title: "Honors and Awards"
-  #   url: "/#-honors-and-awards"
 
   # - title: "Educations"
   #   url: "/#-educations"
@@ -34,6 +25,12 @@ main:
 
   # - title: "Work Experience"
   #   url: "/#-work-experience"
+
+  - title: "Awards"
+    url: "/#-awards"
+
+  - title: "Experience"
+    url: "/#-experience"
 
   - title: "Services"
     url: "/#-services"
