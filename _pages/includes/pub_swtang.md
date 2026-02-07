@@ -8,7 +8,7 @@
     Monolithically Printed Pneumatic Proprioceptive Actuator with Integrated Optical Waveguide Using a Single Material.
     [<a href="https://journals.sagepub.com/doi/10.1177/21695172261420664" target="_blank">Link</a>]
     [<a href="/files/paper_pdf/SORO2026a.pdf" target="_blank">PDF</a>]
-    <!-- [<a href="/files/paper_video/AS2024a_video.mp4" target="_blank">Video</a>] -->
+    [<a href="/files/paper_video/SORO2026a_video.mp4" target="_blank">Video</a>]
      <br>
      <b><u>Shaowu Tang</u></b>, Xiaohuang Liu, Zhonggui Fang, Yige Wu, Juan Yi, Zheng Wang, Jian S. Dai, Sicong Liu* <br>
     <i>Soft Robotics, 2026.</i>
