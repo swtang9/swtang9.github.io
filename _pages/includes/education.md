@@ -1,4 +1,4 @@
-
+<span class='anchor' id='-education'></span>
 
 # 👨‍🎓 Education
 

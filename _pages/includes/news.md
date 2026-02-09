@@ -1,5 +1,7 @@
-# 🔥 News
+<span class='anchor' id='-news'></span>
 
+
+# 🔥 News
 
 <span> <img src="https://img.shields.io/badge/Pub-01/14/2026-blue?style=flat-square" style="vertical-align: -4px;"> Our paper on Monolithically 3D-Printed  Proprioceptive Actuators has been accepted by **_Soft Robotics_**! Huge thanks to all co-authors!
 
