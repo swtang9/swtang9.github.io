@@ -3,5 +3,5 @@
 # ⚙️ Services
 
 
-* <img src="https://img.shields.io/badge/Reviewer-Journal-blue?style=flat-square" style="vertical-align: -4px;"> *J. Field Robot.* \| *Sci. Rep.* \| *Prog. Addit. Manuf.*
-* <img src="https://img.shields.io/badge/Reviewer-Conference-blue?style=flat-square" style="vertical-align: -4px;"> *ReMAR* 2024
+* <img src="https://img.shields.io/badge/Reviewer-Journal-blue?style=flat-square" style="vertical-align: -4px;"> *Journal of Field Robotics*, *Scientific Reports*, *Progress in Additive Manufacturing*
+* <img src="https://img.shields.io/badge/Reviewer-Conference-blue?style=flat-square" style="vertical-align: -4px;"> *IROS* 2026, *ReMAR* 2024
